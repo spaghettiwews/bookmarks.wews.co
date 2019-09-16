@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Password Management on hugonews</title>
+    <link>https://news.wews.co/tags/password-management/</link>
+    <description>Recent content in Password Management on hugonews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Sep 2019 11:04:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://news.wews.co/tags/password-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Switching from 1Password to Bitwarden</title>
+      <link>https://news.wews.co/item/switching-from-1password-to-bitwarden/</link>
+      <pubDate>Wed, 11 Sep 2019 11:04:05 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/switching-from-1password-to-bitwarden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

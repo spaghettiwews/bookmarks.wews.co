@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Items on hugonews</title>
+    <link>https://news.wews.co/item/</link>
+    <description>Recent content in Items on hugonews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2019 19:25:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://news.wews.co/item/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Color Hunt: Color Palettes for Designers and Artists</title>
+      <link>https://news.wews.co/item/color-hunt-color-palettes-for-designers-and-artists/</link>
+      <pubDate>Sun, 15 Sep 2019 19:25:31 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/color-hunt-color-palettes-for-designers-and-artists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient Hunt: Gradients for Designers and Artists</title>
+      <link>https://news.wews.co/item/gradient-hunt-gradients-for-designers-and-artists/</link>
+      <pubDate>Sun, 15 Sep 2019 19:24:15 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/gradient-hunt-gradients-for-designers-and-artists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The history and legacy of jQuery</title>
+      <link>https://news.wews.co/item/the-history-and-legacy-of-jquery/</link>
+      <pubDate>Sun, 15 Sep 2019 17:30:41 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/the-history-and-legacy-of-jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google JavaScript Style Guide</title>
+      <link>https://news.wews.co/item/google-js-style-guide/</link>
+      <pubDate>Fri, 13 Sep 2019 08:25:59 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/google-js-style-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google HTML/CSS Style Guide</title>
+      <link>https://news.wews.co/item/google-html-css-style-guide/</link>
+      <pubDate>Fri, 13 Sep 2019 08:25:49 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/google-html-css-style-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Engineering Practices Documentation</title>
+      <link>https://news.wews.co/item/google-engineering-practices/</link>
+      <pubDate>Fri, 13 Sep 2019 08:13:47 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/google-engineering-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software disenchantment</title>
+      <link>https://news.wews.co/item/software-disenchantment/</link>
+      <pubDate>Thu, 12 Sep 2019 23:47:15 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/software-disenchantment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switching from 1Password to Bitwarden</title>
+      <link>https://news.wews.co/item/switching-from-1password-to-bitwarden/</link>
+      <pubDate>Wed, 11 Sep 2019 11:04:05 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/switching-from-1password-to-bitwarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using CSS Grid the right way</title>
+      <link>https://news.wews.co/item/using-css-grid-the-right-way/</link>
+      <pubDate>Wed, 11 Sep 2019 10:57:56 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/using-css-grid-the-right-way/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What were CGI scripts?</title>
+      <link>https://news.wews.co/item/what-were-cgi-scripts/</link>
+      <pubDate>Wed, 11 Sep 2019 10:39:07 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/what-were-cgi-scripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authorization With JSON Web Tokens</title>
+      <link>https://news.wews.co/item/authorization-with-json-web-tokens/</link>
+      <pubDate>Wed, 11 Sep 2019 10:36:51 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/authorization-with-json-web-tokens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What the heck is the Event Loop anyway?</title>
+      <link>https://news.wews.co/item/what-the-heck-is-the-event-loop-anyway/</link>
+      <pubDate>Wed, 11 Sep 2019 00:09:38 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/what-the-heck-is-the-event-loop-anyway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Golang - From Zero to Hero</title>
+      <link>https://news.wews.co/item/learning-golang-from-zero-to-hero/</link>
+      <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/learning-golang-from-zero-to-hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go by Example</title>
+      <link>https://news.wews.co/item/go-by-example/</link>
+      <pubDate>Tue, 10 Sep 2019 23:08:58 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/go-by-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo, the scope, the context and the dot</title>
+      <link>https://news.wews.co/item/hugo-the-scope-the-context-and-the-dot/</link>
+      <pubDate>Tue, 10 Sep 2019 17:41:37 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/hugo-the-scope-the-context-and-the-dot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Saturday Read: The death of Robert Mugabe</title>
+      <link>https://news.wews.co/item/big-saturday-read-the-death-of-robert-mugabe/</link>
+      <pubDate>Tue, 10 Sep 2019 00:05:27 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/big-saturday-read-the-death-of-robert-mugabe/</guid>
+      <description>A legacy of tyrannical rule, economic ruin, and dreams destroyed.
+ Gukurahundi Murambatsvina June 27 2008 election violence &amp;amp; murders Hyperinflation Corruption/Scandals  </description>
+    </item>
+    
+    <item>
+      <title>I Sell Onions on the Internet</title>
+      <link>https://news.wews.co/item/i-sell-onions-on-the-internet/</link>
+      <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/i-sell-onions-on-the-internet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

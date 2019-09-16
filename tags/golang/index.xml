@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on hugonews</title>
+    <link>https://news.wews.co/tags/golang/</link>
+    <description>Recent content in Golang on hugonews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Sep 2019 00:03:44 +0200</lastBuildDate>
+    
+	<atom:link href="https://news.wews.co/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Golang - From Zero to Hero</title>
+      <link>https://news.wews.co/item/learning-golang-from-zero-to-hero/</link>
+      <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/learning-golang-from-zero-to-hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go by Example</title>
+      <link>https://news.wews.co/item/go-by-example/</link>
+      <pubDate>Tue, 10 Sep 2019 23:08:58 +0200</pubDate>
+      
+      <guid>https://news.wews.co/item/go-by-example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

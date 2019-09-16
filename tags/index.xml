@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on hugonews</title>
+    <link>https://news.wews.co/tags/</link>
+    <description>Recent content in Tags on hugonews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2019 23:44:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://news.wews.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business</title>
+      <link>https://news.wews.co/tags/business/</link>
+      <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cgi Scripts</title>
+      <link>https://news.wews.co/tags/cgi-scripts/</link>
+      <pubDate>Wed, 11 Sep 2019 10:39:07 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/cgi-scripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colors</title>
+      <link>https://news.wews.co/tags/colors/</link>
+      <pubDate>Sun, 15 Sep 2019 19:25:31 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/colors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>https://news.wews.co/tags/css/</link>
+      <pubDate>Fri, 13 Sep 2019 08:25:49 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Css Grid</title>
+      <link>https://news.wews.co/tags/css-grid/</link>
+      <pubDate>Wed, 11 Sep 2019 10:57:56 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/css-grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Tools</title>
+      <link>https://news.wews.co/tags/design-tools/</link>
+      <pubDate>Sun, 15 Sep 2019 19:25:31 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/design-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>https://news.wews.co/tags/engineering/</link>
+      <pubDate>Fri, 13 Sep 2019 08:13:47 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation</title>
+      <link>https://news.wews.co/tags/explanation/</link>
+      <pubDate>Wed, 11 Sep 2019 10:39:07 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/explanation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funny</title>
+      <link>https://news.wews.co/tags/funny/</link>
+      <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/funny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://news.wews.co/tags/golang/</link>
+      <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradients</title>
+      <link>https://news.wews.co/tags/gradients/</link>
+      <pubDate>Sun, 15 Sep 2019 19:24:15 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/gradients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://news.wews.co/tags/html/</link>
+      <pubDate>Fri, 13 Sep 2019 08:25:49 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://news.wews.co/tags/hugo/</link>
+      <pubDate>Tue, 10 Sep 2019 17:41:37 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspirational</title>
+      <link>https://news.wews.co/tags/inspirational/</link>
+      <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/inspirational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://news.wews.co/tags/internet/</link>
+      <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://news.wews.co/tags/javascript/</link>
+      <pubDate>Sun, 15 Sep 2019 17:30:41 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jquery</title>
+      <link>https://news.wews.co/tags/jquery/</link>
+      <pubDate>Sun, 15 Sep 2019 17:30:41 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jwt</title>
+      <link>https://news.wews.co/tags/jwt/</link>
+      <pubDate>Wed, 11 Sep 2019 10:36:51 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/jwt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mugabe</title>
+      <link>https://news.wews.co/tags/mugabe/</link>
+      <pubDate>Tue, 10 Sep 2019 00:05:27 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/mugabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Password Management</title>
+      <link>https://news.wews.co/tags/password-management/</link>
+      <pubDate>Wed, 11 Sep 2019 11:04:05 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/password-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practices</title>
+      <link>https://news.wews.co/tags/practices/</link>
+      <pubDate>Fri, 13 Sep 2019 08:13:47 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://news.wews.co/tags/programming/</link>
+      <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://news.wews.co/tags/security/</link>
+      <pubDate>Wed, 11 Sep 2019 11:04:05 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://news.wews.co/tags/software/</link>
+      <pubDate>Fri, 13 Sep 2019 08:13:47 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Industry</title>
+      <link>https://news.wews.co/tags/software-industry/</link>
+      <pubDate>Thu, 12 Sep 2019 23:47:15 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/software-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Site</title>
+      <link>https://news.wews.co/tags/static-site/</link>
+      <pubDate>Tue, 10 Sep 2019 17:41:37 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/static-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style Guide</title>
+      <link>https://news.wews.co/tags/style-guide/</link>
+      <pubDate>Fri, 13 Sep 2019 08:25:59 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/style-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://news.wews.co/tags/tutorial/</link>
+      <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://news.wews.co/tags/video/</link>
+      <pubDate>Wed, 11 Sep 2019 00:09:38 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webdev</title>
+      <link>https://news.wews.co/tags/webdev/</link>
+      <pubDate>Wed, 11 Sep 2019 10:57:56 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/webdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zimbabwe</title>
+      <link>https://news.wews.co/tags/zimbabwe/</link>
+      <pubDate>Tue, 10 Sep 2019 00:05:27 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/zimbabwe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
