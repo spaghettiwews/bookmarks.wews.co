@@ -6,10 +6,28 @@
     <description>Recent content in Tags on hugonews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 05:34:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 19:41:32 +0200</lastBuildDate>
     
 	<atom:link href="https://news.wews.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anonymous</title>
+      <link>https://news.wews.co/tags/anonymous/</link>
+      <pubDate>Tue, 17 Sep 2019 19:41:32 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/anonymous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio</title>
+      <link>https://news.wews.co/tags/audio/</link>
+      <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/audio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bias</title>
@@ -44,6 +62,15 @@
       <pubDate>Sun, 15 Sep 2019 19:25:31 +0200</pubDate>
       
       <guid>https://news.wews.co/tags/colors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copyright</title>
+      <link>https://news.wews.co/tags/copyright/</link>
+      <pubDate>Tue, 17 Sep 2019 20:06:06 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/copyright/</guid>
       <description></description>
     </item>
     
@@ -95,7 +122,7 @@
     <item>
       <title>Funny</title>
       <link>https://news.wews.co/tags/funny/</link>
-      <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
+      <pubDate>Tue, 17 Sep 2019 20:06:06 +0200</pubDate>
       
       <guid>https://news.wews.co/tags/funny/</guid>
       <description></description>
@@ -125,6 +152,15 @@
       <pubDate>Sun, 15 Sep 2019 19:24:15 +0200</pubDate>
       
       <guid>https://news.wews.co/tags/gradients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haxors</title>
+      <link>https://news.wews.co/tags/haxors/</link>
+      <pubDate>Tue, 17 Sep 2019 19:41:32 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/haxors/</guid>
       <description></description>
     </item>
     
@@ -201,6 +237,15 @@
     </item>
     
     <item>
+      <title>Krakatoa</title>
+      <link>https://news.wews.co/tags/krakatoa/</link>
+      <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/krakatoa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Letters of Note</title>
       <link>https://news.wews.co/tags/letters-of-note/</link>
       <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
@@ -233,6 +278,15 @@
       <pubDate>Tue, 17 Sep 2019 05:10:15 +0200</pubDate>
       
       <guid>https://news.wews.co/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oatmeal</title>
+      <link>https://news.wews.co/tags/oatmeal/</link>
+      <pubDate>Tue, 17 Sep 2019 20:06:06 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/oatmeal/</guid>
       <description></description>
     </item>
     
@@ -273,6 +327,15 @@
     </item>
     
     <item>
+      <title>Property</title>
+      <link>https://news.wews.co/tags/property/</link>
+      <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Psychology</title>
       <link>https://news.wews.co/tags/psychology/</link>
       <pubDate>Tue, 17 Sep 2019 05:34:46 +0200</pubDate>
@@ -282,11 +345,38 @@
     </item>
     
     <item>
+      <title>Real Estate</title>
+      <link>https://news.wews.co/tags/real-estate/</link>
+      <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/real-estate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://news.wews.co/tags/science/</link>
+      <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Security</title>
       <link>https://news.wews.co/tags/security/</link>
-      <pubDate>Wed, 11 Sep 2019 11:04:05 +0200</pubDate>
+      <pubDate>Tue, 17 Sep 2019 19:41:32 +0200</pubDate>
       
       <guid>https://news.wews.co/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>https://news.wews.co/tags/series/</link>
+      <pubDate>Tue, 17 Sep 2019 20:06:06 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/series/</guid>
       <description></description>
     </item>
     
@@ -336,6 +426,15 @@
     </item>
     
     <item>
+      <title>Title Deeds</title>
+      <link>https://news.wews.co/tags/title-deeds/</link>
+      <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/title-deeds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tutorial</title>
       <link>https://news.wews.co/tags/tutorial/</link>
       <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
@@ -365,7 +464,7 @@
     <item>
       <title>Zimbabwe</title>
       <link>https://news.wews.co/tags/zimbabwe/</link>
-      <pubDate>Tue, 10 Sep 2019 00:05:27 +0200</pubDate>
+      <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
       
       <guid>https://news.wews.co/tags/zimbabwe/</guid>
       <description></description>

@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://news.wews.co/item/funnyjunk-vs-the-oatmeal/</loc>
+    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/item/how-one-security-firm-tracked-anonymousand-paid-a-heavy-price/</loc>
+    <lastmod>2019-09-17T19:41:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/item/transfer-to-title/</loc>
+    <lastmod>2019-09-17T12:08:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/item/a-guide-to-the-transfer-process-of-immovable-property-in-zimbabwe/</loc>
+    <lastmod>2019-09-17T12:06:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/item/the-worlds-loudest-sound/</loc>
+    <lastmod>2019-09-17T11:50:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/item/the-sound-so-loud-that-it-circled-the-earth-four-times/</loc>
+    <lastmod>2019-09-17T11:45:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/item/a-successful-git-branching-model/</loc>
     <lastmod>2019-09-17T05:46:39+02:00</lastmod>
   </url>
@@ -114,6 +144,30 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/anonymous/</loc>
+    <lastmod>2019-09-17T19:41:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/site/arlington.co.zw/</loc>
+    <lastmod>2019-09-17T12:08:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/site/arstechnica.com/</loc>
+    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/audio/</loc>
+    <lastmod>2019-09-17T11:50:40+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/bias/</loc>
     <lastmod>2019-09-17T05:34:46+02:00</lastmod>
     <priority>0</priority>
@@ -161,6 +215,12 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/copyright/</loc>
+    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/css/</loc>
     <lastmod>2019-09-13T08:25:49+02:00</lastmod>
     <priority>0</priority>
@@ -198,7 +258,7 @@
   
   <url>
     <loc>https://news.wews.co/tags/funny/</loc>
-    <lastmod>2019-09-09T23:44:59+02:00</lastmod>
+    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -239,6 +299,12 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/haxors/</loc>
+    <lastmod>2019-09-17T19:41:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/hlmencken/</loc>
     <lastmod>2019-09-17T05:38:05+02:00</lastmod>
     <priority>0</priority>
@@ -270,7 +336,7 @@
   
   <url>
     <loc>https://news.wews.co/item/</loc>
-    <lastmod>2019-09-17T05:46:39+02:00</lastmod>
+    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -305,6 +371,24 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/site/kanokangalawfirm.net/</loc>
+    <lastmod>2019-09-17T12:06:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/site/kottke.org/</loc>
+    <lastmod>2019-09-17T11:50:40+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/krakatoa/</loc>
+    <lastmod>2019-09-17T11:50:40+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/letters-of-note/</loc>
     <lastmod>2019-09-17T05:38:05+02:00</lastmod>
     <priority>0</priority>
@@ -335,6 +419,12 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/site/nautil.us/</loc>
+    <lastmod>2019-09-17T11:45:53+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/nodejs/</loc>
     <lastmod>2019-09-17T05:10:15+02:00</lastmod>
     <priority>0</priority>
@@ -343,6 +433,12 @@
   <url>
     <loc>https://news.wews.co/site/nvie.com/</loc>
     <lastmod>2019-09-17T05:46:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/oatmeal/</loc>
+    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -371,6 +467,12 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/property/</loc>
+    <lastmod>2019-09-17T12:08:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/psychology/</loc>
     <lastmod>2019-09-17T05:34:46+02:00</lastmod>
     <priority>0</priority>
@@ -379,6 +481,12 @@
   <url>
     <loc>https://news.wews.co/site/psychologytoday.com/</loc>
     <lastmod>2019-09-17T05:34:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/real-estate/</loc>
+    <lastmod>2019-09-17T12:08:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -395,8 +503,20 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/science/</loc>
+    <lastmod>2019-09-17T11:50:40+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/security/</loc>
-    <lastmod>2019-09-11T11:04:05+02:00</lastmod>
+    <lastmod>2019-09-17T19:41:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/series/</loc>
+    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -438,7 +558,13 @@
   
   <url>
     <loc>https://news.wews.co/tags/</loc>
-    <lastmod>2019-09-17T05:34:46+02:00</lastmod>
+    <lastmod>2019-09-17T19:41:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/title-deeds/</loc>
+    <lastmod>2019-09-17T12:08:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -474,13 +600,13 @@
   
   <url>
     <loc>https://news.wews.co/tags/zimbabwe/</loc>
-    <lastmod>2019-09-10T00:05:27+02:00</lastmod>
+    <lastmod>2019-09-17T12:08:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://news.wews.co/</loc>
-    <lastmod>2019-09-17T05:46:39+02:00</lastmod>
+    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
