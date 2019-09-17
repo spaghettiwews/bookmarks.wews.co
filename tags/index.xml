@@ -6,10 +6,19 @@
     <description>Recent content in Tags on hugonews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2019 23:44:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 05:34:46 +0200</lastBuildDate>
     
 	<atom:link href="https://news.wews.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bias</title>
+      <link>https://news.wews.co/tags/bias/</link>
+      <pubDate>Tue, 17 Sep 2019 05:34:46 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/bias/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Business</title>
@@ -93,6 +102,15 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>https://news.wews.co/tags/git/</link>
+      <pubDate>Tue, 17 Sep 2019 05:46:39 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Golang</title>
       <link>https://news.wews.co/tags/golang/</link>
       <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
@@ -107,6 +125,15 @@
       <pubDate>Sun, 15 Sep 2019 19:24:15 +0200</pubDate>
       
       <guid>https://news.wews.co/tags/gradients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hlmencken</title>
+      <link>https://news.wews.co/tags/hlmencken/</link>
+      <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/hlmencken/</guid>
       <description></description>
     </item>
     
@@ -174,6 +201,24 @@
     </item>
     
     <item>
+      <title>Letters of Note</title>
+      <link>https://news.wews.co/tags/letters-of-note/</link>
+      <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/letters-of-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://news.wews.co/tags/life/</link>
+      <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mugabe</title>
       <link>https://news.wews.co/tags/mugabe/</link>
       <pubDate>Tue, 10 Sep 2019 00:05:27 +0200</pubDate>
@@ -228,6 +273,15 @@
     </item>
     
     <item>
+      <title>Psychology</title>
+      <link>https://news.wews.co/tags/psychology/</link>
+      <pubDate>Tue, 17 Sep 2019 05:34:46 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Security</title>
       <link>https://news.wews.co/tags/security/</link>
       <pubDate>Wed, 11 Sep 2019 11:04:05 +0200</pubDate>
@@ -260,6 +314,15 @@
       <pubDate>Tue, 10 Sep 2019 17:41:37 +0200</pubDate>
       
       <guid>https://news.wews.co/tags/static-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sterotypes</title>
+      <link>https://news.wews.co/tags/sterotypes/</link>
+      <pubDate>Tue, 17 Sep 2019 05:34:46 +0200</pubDate>
+      
+      <guid>https://news.wews.co/tags/sterotypes/</guid>
       <description></description>
     </item>
     
