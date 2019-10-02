@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://news.wews.co/items/using-array.reduce-in-vanilla-js/</loc>
+    <lastmod>2019-10-02T10:52:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/items/subgrids-considered-essential/</loc>
+    <lastmod>2019-10-02T08:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/items/porsche-by-vw/</loc>
+    <lastmod>2019-10-02T07:58:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/items/switch-wordpress-hugo/</loc>
+    <lastmod>2019-10-02T07:54:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/items/how-to-download-torrents-from-the-command-line-in-ubuntu/</loc>
+    <lastmod>2019-10-02T07:52:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</loc>
+    <lastmod>2019-10-02T07:51:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</loc>
+    <lastmod>2019-10-02T07:48:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/items/career-advice-2019-06-18/</loc>
+    <lastmod>2019-10-02T07:46:12+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/items/funnyjunk-vs-the-oatmeal/</loc>
     <lastmod>2019-09-17T20:06:06+02:00</lastmod>
   </url>
@@ -168,6 +208,18 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/azure/</loc>
+    <lastmod>2019-10-02T07:51:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/bash/</loc>
+    <lastmod>2019-10-02T07:52:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/bias/</loc>
     <lastmod>2019-09-17T05:34:46+02:00</lastmod>
     <priority>0</priority>
@@ -188,6 +240,12 @@
   <url>
     <loc>https://news.wews.co/tags/business/</loc>
     <lastmod>2019-09-09T23:44:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/career/</loc>
+    <lastmod>2019-10-02T07:46:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,6 +273,18 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/commentary/</loc>
+    <lastmod>2019-10-02T07:58:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/components/</loc>
+    <lastmod>2019-10-02T07:48:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/copyright/</loc>
     <lastmod>2019-09-17T20:06:06+02:00</lastmod>
     <priority>0</priority>
@@ -222,13 +292,13 @@
   
   <url>
     <loc>https://news.wews.co/tags/css/</loc>
-    <lastmod>2019-09-13T08:25:49+02:00</lastmod>
+    <lastmod>2019-10-02T08:24:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://news.wews.co/tags/css-grid/</loc>
-    <lastmod>2019-09-11T10:57:56+02:00</lastmod>
+    <lastmod>2019-10-02T08:24:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -257,8 +327,14 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/facebook/</loc>
+    <lastmod>2019-10-02T07:58:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/funny/</loc>
-    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
+    <lastmod>2019-10-02T07:58:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -318,7 +394,7 @@
   
   <url>
     <loc>https://news.wews.co/tags/hugo/</loc>
-    <lastmod>2019-09-10T17:41:37+02:00</lastmod>
+    <lastmod>2019-10-02T07:54:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -336,7 +412,7 @@
   
   <url>
     <loc>https://news.wews.co/items/</loc>
-    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
+    <lastmod>2019-10-02T10:52:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -348,7 +424,7 @@
   
   <url>
     <loc>https://news.wews.co/tags/javascript/</loc>
-    <lastmod>2019-09-17T05:10:15+02:00</lastmod>
+    <lastmod>2019-10-02T10:52:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -557,6 +633,12 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/subgrid/</loc>
+    <lastmod>2019-10-02T08:24:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/</loc>
     <lastmod>2019-09-17T19:41:32+02:00</lastmod>
     <priority>0</priority>
@@ -575,8 +657,20 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/torrents/</loc>
+    <lastmod>2019-10-02T07:52:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/tutorial/</loc>
     <lastmod>2019-09-11T00:03:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/vanillajs/</loc>
+    <lastmod>2019-10-02T10:52:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -599,6 +693,12 @@
   </url>
   
   <url>
+    <loc>https://news.wews.co/tags/wordpress/</loc>
+    <lastmod>2019-10-02T07:54:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/zimbabwe/</loc>
     <lastmod>2019-09-17T12:08:47+02:00</lastmod>
     <priority>0</priority>
@@ -606,7 +706,7 @@
   
   <url>
     <loc>https://news.wews.co/</loc>
-    <lastmod>2019-09-17T20:06:06+02:00</lastmod>
+    <lastmod>2019-10-02T10:52:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   

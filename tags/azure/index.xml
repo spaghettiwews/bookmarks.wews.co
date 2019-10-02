@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure on hugonews</title>
+    <link>https://news.wews.co/tags/azure/</link>
+    <description>Recent content in Azure on hugonews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 07:51:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://news.wews.co/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Linux] How to login Azure Linux VM’s using SSH key pair</title>
+      <link>https://news.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</link>
+      <pubDate>Wed, 02 Oct 2019 07:51:12 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

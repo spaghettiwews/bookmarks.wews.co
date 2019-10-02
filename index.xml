@@ -6,10 +6,82 @@
     <description>Recent content on hugonews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 20:06:06 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 10:52:07 +0200</lastBuildDate>
     
 	<atom:link href="https://news.wews.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Array.reduce() in vanilla JS</title>
+      <link>https://news.wews.co/items/using-array.reduce-in-vanilla-js/</link>
+      <pubDate>Wed, 02 Oct 2019 10:52:07 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/using-array.reduce-in-vanilla-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subgrids Considered Essential</title>
+      <link>https://news.wews.co/items/subgrids-considered-essential/</link>
+      <pubDate>Wed, 02 Oct 2019 08:24:52 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/subgrids-considered-essential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porsche by VW</title>
+      <link>https://news.wews.co/items/porsche-by-vw/</link>
+      <pubDate>Wed, 02 Oct 2019 07:58:12 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/porsche-by-vw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switching From WordPress To Hugo</title>
+      <link>https://news.wews.co/items/switch-wordpress-hugo/</link>
+      <pubDate>Wed, 02 Oct 2019 07:54:50 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/switch-wordpress-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Download Torrents from the Command Line in Ubuntu</title>
+      <link>https://news.wews.co/items/how-to-download-torrents-from-the-command-line-in-ubuntu/</link>
+      <pubDate>Wed, 02 Oct 2019 07:52:46 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/how-to-download-torrents-from-the-command-line-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Linux] How to login Azure Linux VM’s using SSH key pair</title>
+      <link>https://news.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</link>
+      <pubDate>Wed, 02 Oct 2019 07:51:12 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactive UI’s with VanillaJS – Part 1: Pure Functional Style</title>
+      <link>https://news.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</link>
+      <pubDate>Wed, 02 Oct 2019 07:48:06 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice to People Nurturing a Career in Computering</title>
+      <link>https://news.wews.co/items/career-advice-2019-06-18/</link>
+      <pubDate>Wed, 02 Oct 2019 07:46:12 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/career-advice-2019-06-18/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Oatmeal vs. FunnyJunk: webcomic copyright fight gets personal</title>
