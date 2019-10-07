@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Engineering on hugonews</title>
+    <title>engineering on hugonews</title>
     <link>https://news.wews.co/tags/engineering/</link>
-    <description>Recent content in Engineering on hugonews</description>
+    <description>Recent content in engineering on hugonews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Sep 2019 08:13:47 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 07:50:11 +0200</lastBuildDate>
     
 	<atom:link href="https://news.wews.co/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>You Are Solving The Wrong Problem</title>
+      <link>https://news.wews.co/items/the-wrong-problem/</link>
+      <pubDate>Thu, 03 Oct 2019 07:50:11 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/the-wrong-problem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Google Engineering Practices Documentation</title>

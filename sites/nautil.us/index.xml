@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nautil.us on hugonews</title>
+    <title>nautil.us on hugonews</title>
     <link>https://news.wews.co/sites/nautil.us/</link>
-    <description>Recent content in Nautil.us on hugonews</description>
+    <description>Recent content in nautil.us on hugonews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Sep 2019 11:45:53 +0200</lastBuildDate>

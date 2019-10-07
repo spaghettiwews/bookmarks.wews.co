@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="/css/style.css">
+    <title>hugonews</title>
+</head>
+<body>
+<header id="header">
+    <h1><a href="/">hugonews</a></h1>
+    <nav>
+        <ul>
+            <li><a href="/tags">tags</a></li>
+            <li><a href="/sites">sites</a></li>
+            <li><a href="https://github.com/spaghettiwews/hugonews">github</a></li>
+        </ul>
+    </nav>
+</header>
+<main id="main">
+    <article class="single">
+        
+        
+
+<h2 id="variable-declaration">Variable declaration</h2>
+
+<ul>
+<li><strong><code>var foo int</code></strong> declare and initialise later; useful for</li>
+<li><strong><code>var foo int = 42</code></strong> useful when compiler might guess the variable type wrong</li>
+<li><strong><code>foo := 42</code></strong> declare and initialise shorthand. let compiler decide type</li>
+<li>variables cannot be redeclared but can be assigned new values</li>
+<li>all variables must be used</li>
+</ul>
+
+<h2 id="visibility">Visibility</h2>
+
+<ul>
+<li>lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package<br /></li>
+<li>uppercase first letter means variable will be globally scoped and will be exported</li>
+<li>there is no private scope, however you can blockscope</li>
+</ul>
+
+<h2 id="naming-conventions">Naming conventions</h2>
+
+<ul>
+<li>use Pascal or camelCase for naming variables</li>
+<li>capitalise acronyms (HTTP, URL)</li>
+<li>variable names should be as short as reasonable. variables with longer life spans within the code should have longer and more meaningiful names</li>
+</ul>
+
+<h2 id="type-conversions">Type conversions</h2>
+
+<ul>
+<li>in Go the destination type we want to convert to is used somewhat like a function and we pass the variable to be converted as a parameter. <strong><code>destinationType(variable)</code></strong></li>
+<li>for strings we use the <strong><code>strconv</code></strong> package</li>
+</ul>
+
+        
+    </article>
+</main>
+<footer id="footer">look ma, a footer</footer>
+</body>
+</html>

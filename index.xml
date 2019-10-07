@@ -6,10 +6,64 @@
     <description>Recent content on hugonews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 10:52:07 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 21:31:41 +0200</lastBuildDate>
     
 	<atom:link href="https://news.wews.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Go Programming - Golang Tutorial for Beginners</title>
+      <link>https://news.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</link>
+      <pubDate>Fri, 04 Oct 2019 21:31:41 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</guid>
+      <description>Variable declaration  var foo int declare and initialise later; useful for var foo int = 42 useful when compiler might guess the variable type wrong foo := 42 declare and initialise shorthand. let compiler decide type variables cannot be redeclared but can be assigned new values all variables must be used  Visibility  lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package</description>
+    </item>
+    
+    <item>
+      <title>3D for Reddit</title>
+      <link>https://news.wews.co/items/3dforreddit/</link>
+      <pubDate>Thu, 03 Oct 2019 10:46:04 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/3dforreddit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverter Basics and Selecting the Right Model</title>
+      <link>https://news.wews.co/items/inverter-basics-selection/</link>
+      <pubDate>Thu, 03 Oct 2019 08:14:33 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/inverter-basics-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Set Up Off-the-Grid Solar Power</title>
+      <link>https://news.wews.co/items/set-up-off-grid-solar-power/</link>
+      <pubDate>Thu, 03 Oct 2019 08:06:56 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/set-up-off-grid-solar-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Shop for Solar Power: Solar Panels, Inverters, and More</title>
+      <link>https://news.wews.co/items/how-shop-solar-power-panels-inverters-more/</link>
+      <pubDate>Thu, 03 Oct 2019 08:04:48 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/how-shop-solar-power-panels-inverters-more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Are Solving The Wrong Problem</title>
+      <link>https://news.wews.co/items/the-wrong-problem/</link>
+      <pubDate>Thu, 03 Oct 2019 07:50:11 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/the-wrong-problem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Array.reduce() in vanilla JS</title>

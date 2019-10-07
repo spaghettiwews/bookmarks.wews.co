@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial on hugonews</title>
+    <title>tutorial on hugonews</title>
     <link>https://news.wews.co/tags/tutorial/</link>
-    <description>Recent content in Tutorial on hugonews</description>
+    <description>Recent content in tutorial on hugonews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 00:03:44 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 21:31:41 +0200</lastBuildDate>
     
 	<atom:link href="https://news.wews.co/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Go Programming - Golang Tutorial for Beginners</title>
+      <link>https://news.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</link>
+      <pubDate>Fri, 04 Oct 2019 21:31:41 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</guid>
+      <description>Variable declaration  var foo int declare and initialise later; useful for var foo int = 42 useful when compiler might guess the variable type wrong foo := 42 declare and initialise shorthand. let compiler decide type variables cannot be redeclared but can be assigned new values all variables must be used  Visibility  lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package</description>
+    </item>
     
     <item>
       <title>Learning Golang - From Zero to Hero</title>

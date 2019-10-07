@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>problem solving on hugonews</title>
+    <link>https://news.wews.co/tags/problem-solving/</link>
+    <description>Recent content in problem solving on hugonews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2019 07:50:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://news.wews.co/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You Are Solving The Wrong Problem</title>
+      <link>https://news.wews.co/items/the-wrong-problem/</link>
+      <pubDate>Thu, 03 Oct 2019 07:50:11 +0200</pubDate>
+      
+      <guid>https://news.wews.co/items/the-wrong-problem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
