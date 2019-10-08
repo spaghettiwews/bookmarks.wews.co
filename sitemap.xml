@@ -3,32 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://news.wews.co/items/adaptive-photo-layout-with-flexbox/</loc>
+    <lastmod>2019-10-07T23:44:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/css/</loc>
+    <lastmod>2019-10-07T23:44:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/sites/css-tricks.com/</loc>
+    <lastmod>2019-10-07T23:44:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/flexbox/</loc>
+    <lastmod>2019-10-07T23:44:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/</loc>
+    <lastmod>2019-10-07T23:44:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/items/</loc>
+    <lastmod>2019-10-07T23:44:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/sites/</loc>
+    <lastmod>2019-10-07T23:44:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.wews.co/tags/</loc>
+    <lastmod>2019-10-07T23:44:29+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://news.wews.co/tags/golang/</loc>
     <lastmod>2019-10-04T21:31:41+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://news.wews.co/</loc>
-    <lastmod>2019-10-04T21:31:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.wews.co/items/</loc>
-    <lastmod>2019-10-04T21:31:41+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</loc>
-    <lastmod>2019-10-04T21:31:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.wews.co/sites/</loc>
-    <lastmod>2019-10-04T21:31:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.wews.co/tags/</loc>
     <lastmod>2019-10-04T21:31:41+02:00</lastmod>
   </url>
   
@@ -158,11 +178,6 @@
   </url>
   
   <url>
-    <loc>https://news.wews.co/tags/css/</loc>
-    <lastmod>2019-10-02T08:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.wews.co/tags/css-grid/</loc>
     <lastmod>2019-10-02T08:24:52+02:00</lastmod>
   </url>
@@ -264,11 +279,6 @@
   
   <url>
     <loc>https://news.wews.co/tags/components/</loc>
-    <lastmod>2019-10-02T07:48:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.wews.co/sites/css-tricks.com/</loc>
     <lastmod>2019-10-02T07:48:06+02:00</lastmod>
   </url>
   
