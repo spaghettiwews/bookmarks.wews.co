@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>milapneupane.com.np on hugonews</title>
-    <link>https://news.wews.co/sites/milapneupane.com.np/</link>
-    <description>Recent content in milapneupane.com.np on hugonews</description>
+    <title>milapneupane.com.np on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/sites/milapneupane.com.np/</link>
+    <description>Recent content in milapneupane.com.np on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Sep 2019 00:03:44 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/sites/milapneupane.com.np/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/sites/milapneupane.com.np/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning Golang - From Zero to Hero</title>
-      <link>https://news.wews.co/items/learning-golang-from-zero-to-hero/</link>
+      <link>https://bookmarks.wews.co/items/learning-golang-from-zero-to-hero/</link>
       <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/learning-golang-from-zero-to-hero/</guid>
+      <guid>https://bookmarks.wews.co/items/learning-golang-from-zero-to-hero/</guid>
       <description></description>
     </item>
     

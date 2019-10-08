@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>design tools on hugonews</title>
-    <link>https://news.wews.co/tags/design-tools/</link>
-    <description>Recent content in design tools on hugonews</description>
+    <title>design tools on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/tags/design-tools/</link>
+    <description>Recent content in design tools on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Sep 2019 19:25:31 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/tags/design-tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/tags/design-tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Color Hunt: Color Palettes for Designers and Artists</title>
-      <link>https://news.wews.co/items/color-hunt-color-palettes-for-designers-and-artists/</link>
+      <link>https://bookmarks.wews.co/items/color-hunt-color-palettes-for-designers-and-artists/</link>
       <pubDate>Sun, 15 Sep 2019 19:25:31 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/color-hunt-color-palettes-for-designers-and-artists/</guid>
+      <guid>https://bookmarks.wews.co/items/color-hunt-color-palettes-for-designers-and-artists/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradient Hunt: Gradients for Designers and Artists</title>
-      <link>https://news.wews.co/items/gradient-hunt-gradients-for-designers-and-artists/</link>
+      <link>https://bookmarks.wews.co/items/gradient-hunt-gradients-for-designers-and-artists/</link>
       <pubDate>Sun, 15 Sep 2019 19:24:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/gradient-hunt-gradients-for-designers-and-artists/</guid>
+      <guid>https://bookmarks.wews.co/items/gradient-hunt-gradients-for-designers-and-artists/</guid>
       <description></description>
     </item>
     

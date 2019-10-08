@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>software on hugonews</title>
-    <link>https://news.wews.co/tags/software/</link>
-    <description>Recent content in software on hugonews</description>
+    <title>software on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/tags/software/</link>
+    <description>Recent content in software on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Sep 2019 08:13:47 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/tags/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Google Engineering Practices Documentation</title>
-      <link>https://news.wews.co/items/google-engineering-practices/</link>
+      <link>https://bookmarks.wews.co/items/google-engineering-practices/</link>
       <pubDate>Fri, 13 Sep 2019 08:13:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/google-engineering-practices/</guid>
+      <guid>https://bookmarks.wews.co/items/google-engineering-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software disenchantment</title>
-      <link>https://news.wews.co/items/software-disenchantment/</link>
+      <link>https://bookmarks.wews.co/items/software-disenchantment/</link>
       <pubDate>Thu, 12 Sep 2019 23:47:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/software-disenchantment/</guid>
+      <guid>https://bookmarks.wews.co/items/software-disenchantment/</guid>
       <description></description>
     </item>
     

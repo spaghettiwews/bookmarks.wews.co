@@ -1,643 +1,643 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on hugonews</title>
-    <link>https://news.wews.co/tags/</link>
-    <description>Recent content in Tags on hugonews</description>
+    <title>Tags on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/tags/</link>
+    <description>Recent content in Tags on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2019 23:44:29 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>css</title>
-      <link>https://news.wews.co/tags/css/</link>
+      <link>https://bookmarks.wews.co/tags/css/</link>
       <pubDate>Mon, 07 Oct 2019 23:44:29 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/css/</guid>
+      <guid>https://bookmarks.wews.co/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flexbox</title>
-      <link>https://news.wews.co/tags/flexbox/</link>
+      <link>https://bookmarks.wews.co/tags/flexbox/</link>
       <pubDate>Mon, 07 Oct 2019 23:44:29 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/flexbox/</guid>
+      <guid>https://bookmarks.wews.co/tags/flexbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://news.wews.co/tags/golang/</link>
+      <link>https://bookmarks.wews.co/tags/golang/</link>
       <pubDate>Fri, 04 Oct 2019 21:31:41 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/golang/</guid>
+      <guid>https://bookmarks.wews.co/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://news.wews.co/tags/tutorial/</link>
+      <link>https://bookmarks.wews.co/tags/tutorial/</link>
       <pubDate>Fri, 04 Oct 2019 21:31:41 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/tutorial/</guid>
+      <guid>https://bookmarks.wews.co/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video</title>
-      <link>https://news.wews.co/tags/video/</link>
+      <link>https://bookmarks.wews.co/tags/video/</link>
       <pubDate>Fri, 04 Oct 2019 21:31:41 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/video/</guid>
+      <guid>https://bookmarks.wews.co/tags/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mind blown</title>
-      <link>https://news.wews.co/tags/mind-blown/</link>
+      <link>https://bookmarks.wews.co/tags/mind-blown/</link>
       <pubDate>Thu, 03 Oct 2019 10:46:04 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/mind-blown/</guid>
+      <guid>https://bookmarks.wews.co/tags/mind-blown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>novel</title>
-      <link>https://news.wews.co/tags/novel/</link>
+      <link>https://bookmarks.wews.co/tags/novel/</link>
       <pubDate>Thu, 03 Oct 2019 10:46:04 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/novel/</guid>
+      <guid>https://bookmarks.wews.co/tags/novel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ui</title>
-      <link>https://news.wews.co/tags/ui/</link>
+      <link>https://bookmarks.wews.co/tags/ui/</link>
       <pubDate>Thu, 03 Oct 2019 10:46:04 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/ui/</guid>
+      <guid>https://bookmarks.wews.co/tags/ui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>backup power</title>
-      <link>https://news.wews.co/tags/backup-power/</link>
+      <link>https://bookmarks.wews.co/tags/backup-power/</link>
       <pubDate>Thu, 03 Oct 2019 08:14:33 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/backup-power/</guid>
+      <guid>https://bookmarks.wews.co/tags/backup-power/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inverter</title>
-      <link>https://news.wews.co/tags/inverter/</link>
+      <link>https://bookmarks.wews.co/tags/inverter/</link>
       <pubDate>Thu, 03 Oct 2019 08:14:33 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/inverter/</guid>
+      <guid>https://bookmarks.wews.co/tags/inverter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>off grid</title>
-      <link>https://news.wews.co/tags/off-grid/</link>
+      <link>https://bookmarks.wews.co/tags/off-grid/</link>
       <pubDate>Thu, 03 Oct 2019 08:14:33 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/off-grid/</guid>
+      <guid>https://bookmarks.wews.co/tags/off-grid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>solar</title>
-      <link>https://news.wews.co/tags/solar/</link>
+      <link>https://bookmarks.wews.co/tags/solar/</link>
       <pubDate>Thu, 03 Oct 2019 08:14:33 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/solar/</guid>
+      <guid>https://bookmarks.wews.co/tags/solar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>engineering</title>
-      <link>https://news.wews.co/tags/engineering/</link>
+      <link>https://bookmarks.wews.co/tags/engineering/</link>
       <pubDate>Thu, 03 Oct 2019 07:50:11 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/engineering/</guid>
+      <guid>https://bookmarks.wews.co/tags/engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>problem solving</title>
-      <link>https://news.wews.co/tags/problem-solving/</link>
+      <link>https://bookmarks.wews.co/tags/problem-solving/</link>
       <pubDate>Thu, 03 Oct 2019 07:50:11 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/problem-solving/</guid>
+      <guid>https://bookmarks.wews.co/tags/problem-solving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://news.wews.co/tags/javascript/</link>
+      <link>https://bookmarks.wews.co/tags/javascript/</link>
       <pubDate>Wed, 02 Oct 2019 10:52:07 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/javascript/</guid>
+      <guid>https://bookmarks.wews.co/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vanillajs</title>
-      <link>https://news.wews.co/tags/vanillajs/</link>
+      <link>https://bookmarks.wews.co/tags/vanillajs/</link>
       <pubDate>Wed, 02 Oct 2019 10:52:07 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/vanillajs/</guid>
+      <guid>https://bookmarks.wews.co/tags/vanillajs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css grid</title>
-      <link>https://news.wews.co/tags/css-grid/</link>
+      <link>https://bookmarks.wews.co/tags/css-grid/</link>
       <pubDate>Wed, 02 Oct 2019 08:24:52 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/css-grid/</guid>
+      <guid>https://bookmarks.wews.co/tags/css-grid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>subgrid</title>
-      <link>https://news.wews.co/tags/subgrid/</link>
+      <link>https://bookmarks.wews.co/tags/subgrid/</link>
       <pubDate>Wed, 02 Oct 2019 08:24:52 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/subgrid/</guid>
+      <guid>https://bookmarks.wews.co/tags/subgrid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>commentary</title>
-      <link>https://news.wews.co/tags/commentary/</link>
+      <link>https://bookmarks.wews.co/tags/commentary/</link>
       <pubDate>Wed, 02 Oct 2019 07:58:12 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/commentary/</guid>
+      <guid>https://bookmarks.wews.co/tags/commentary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>facebook</title>
-      <link>https://news.wews.co/tags/facebook/</link>
+      <link>https://bookmarks.wews.co/tags/facebook/</link>
       <pubDate>Wed, 02 Oct 2019 07:58:12 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/facebook/</guid>
+      <guid>https://bookmarks.wews.co/tags/facebook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>funny</title>
-      <link>https://news.wews.co/tags/funny/</link>
+      <link>https://bookmarks.wews.co/tags/funny/</link>
       <pubDate>Wed, 02 Oct 2019 07:58:12 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/funny/</guid>
+      <guid>https://bookmarks.wews.co/tags/funny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://news.wews.co/tags/hugo/</link>
+      <link>https://bookmarks.wews.co/tags/hugo/</link>
       <pubDate>Wed, 02 Oct 2019 07:54:50 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/hugo/</guid>
+      <guid>https://bookmarks.wews.co/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wordpress</title>
-      <link>https://news.wews.co/tags/wordpress/</link>
+      <link>https://bookmarks.wews.co/tags/wordpress/</link>
       <pubDate>Wed, 02 Oct 2019 07:54:50 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/wordpress/</guid>
+      <guid>https://bookmarks.wews.co/tags/wordpress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bash</title>
-      <link>https://news.wews.co/tags/bash/</link>
+      <link>https://bookmarks.wews.co/tags/bash/</link>
       <pubDate>Wed, 02 Oct 2019 07:52:46 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/bash/</guid>
+      <guid>https://bookmarks.wews.co/tags/bash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>torrents</title>
-      <link>https://news.wews.co/tags/torrents/</link>
+      <link>https://bookmarks.wews.co/tags/torrents/</link>
       <pubDate>Wed, 02 Oct 2019 07:52:46 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/torrents/</guid>
+      <guid>https://bookmarks.wews.co/tags/torrents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>azure</title>
-      <link>https://news.wews.co/tags/azure/</link>
+      <link>https://bookmarks.wews.co/tags/azure/</link>
       <pubDate>Wed, 02 Oct 2019 07:51:12 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/azure/</guid>
+      <guid>https://bookmarks.wews.co/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>components</title>
-      <link>https://news.wews.co/tags/components/</link>
+      <link>https://bookmarks.wews.co/tags/components/</link>
       <pubDate>Wed, 02 Oct 2019 07:48:06 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/components/</guid>
+      <guid>https://bookmarks.wews.co/tags/components/</guid>
       <description></description>
     </item>
     
     <item>
       <title>career</title>
-      <link>https://news.wews.co/tags/career/</link>
+      <link>https://bookmarks.wews.co/tags/career/</link>
       <pubDate>Wed, 02 Oct 2019 07:46:12 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/career/</guid>
+      <guid>https://bookmarks.wews.co/tags/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>copyright</title>
-      <link>https://news.wews.co/tags/copyright/</link>
+      <link>https://bookmarks.wews.co/tags/copyright/</link>
       <pubDate>Tue, 17 Sep 2019 20:06:06 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/copyright/</guid>
+      <guid>https://bookmarks.wews.co/tags/copyright/</guid>
       <description></description>
     </item>
     
     <item>
       <title>oatmeal</title>
-      <link>https://news.wews.co/tags/oatmeal/</link>
+      <link>https://bookmarks.wews.co/tags/oatmeal/</link>
       <pubDate>Tue, 17 Sep 2019 20:06:06 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/oatmeal/</guid>
+      <guid>https://bookmarks.wews.co/tags/oatmeal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>series</title>
-      <link>https://news.wews.co/tags/series/</link>
+      <link>https://bookmarks.wews.co/tags/series/</link>
       <pubDate>Tue, 17 Sep 2019 20:06:06 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/series/</guid>
+      <guid>https://bookmarks.wews.co/tags/series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anonymous</title>
-      <link>https://news.wews.co/tags/anonymous/</link>
+      <link>https://bookmarks.wews.co/tags/anonymous/</link>
       <pubDate>Tue, 17 Sep 2019 19:41:32 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/anonymous/</guid>
+      <guid>https://bookmarks.wews.co/tags/anonymous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>haxors</title>
-      <link>https://news.wews.co/tags/haxors/</link>
+      <link>https://bookmarks.wews.co/tags/haxors/</link>
       <pubDate>Tue, 17 Sep 2019 19:41:32 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/haxors/</guid>
+      <guid>https://bookmarks.wews.co/tags/haxors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>https://news.wews.co/tags/security/</link>
+      <link>https://bookmarks.wews.co/tags/security/</link>
       <pubDate>Tue, 17 Sep 2019 19:41:32 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/security/</guid>
+      <guid>https://bookmarks.wews.co/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>property</title>
-      <link>https://news.wews.co/tags/property/</link>
+      <link>https://bookmarks.wews.co/tags/property/</link>
       <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/property/</guid>
+      <guid>https://bookmarks.wews.co/tags/property/</guid>
       <description></description>
     </item>
     
     <item>
       <title>real estate</title>
-      <link>https://news.wews.co/tags/real-estate/</link>
+      <link>https://bookmarks.wews.co/tags/real-estate/</link>
       <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/real-estate/</guid>
+      <guid>https://bookmarks.wews.co/tags/real-estate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>title deeds</title>
-      <link>https://news.wews.co/tags/title-deeds/</link>
+      <link>https://bookmarks.wews.co/tags/title-deeds/</link>
       <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/title-deeds/</guid>
+      <guid>https://bookmarks.wews.co/tags/title-deeds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zimbabwe</title>
-      <link>https://news.wews.co/tags/zimbabwe/</link>
+      <link>https://bookmarks.wews.co/tags/zimbabwe/</link>
       <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/zimbabwe/</guid>
+      <guid>https://bookmarks.wews.co/tags/zimbabwe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>audio</title>
-      <link>https://news.wews.co/tags/audio/</link>
+      <link>https://bookmarks.wews.co/tags/audio/</link>
       <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/audio/</guid>
+      <guid>https://bookmarks.wews.co/tags/audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>krakatoa</title>
-      <link>https://news.wews.co/tags/krakatoa/</link>
+      <link>https://bookmarks.wews.co/tags/krakatoa/</link>
       <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/krakatoa/</guid>
+      <guid>https://bookmarks.wews.co/tags/krakatoa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>science</title>
-      <link>https://news.wews.co/tags/science/</link>
+      <link>https://bookmarks.wews.co/tags/science/</link>
       <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/science/</guid>
+      <guid>https://bookmarks.wews.co/tags/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://news.wews.co/tags/git/</link>
+      <link>https://bookmarks.wews.co/tags/git/</link>
       <pubDate>Tue, 17 Sep 2019 05:46:39 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/git/</guid>
+      <guid>https://bookmarks.wews.co/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hlmencken</title>
-      <link>https://news.wews.co/tags/hlmencken/</link>
+      <link>https://bookmarks.wews.co/tags/hlmencken/</link>
       <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/hlmencken/</guid>
+      <guid>https://bookmarks.wews.co/tags/hlmencken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>letters of note</title>
-      <link>https://news.wews.co/tags/letters-of-note/</link>
+      <link>https://bookmarks.wews.co/tags/letters-of-note/</link>
       <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/letters-of-note/</guid>
+      <guid>https://bookmarks.wews.co/tags/letters-of-note/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://news.wews.co/tags/life/</link>
+      <link>https://bookmarks.wews.co/tags/life/</link>
       <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/life/</guid>
+      <guid>https://bookmarks.wews.co/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bias</title>
-      <link>https://news.wews.co/tags/bias/</link>
+      <link>https://bookmarks.wews.co/tags/bias/</link>
       <pubDate>Tue, 17 Sep 2019 05:34:46 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/bias/</guid>
+      <guid>https://bookmarks.wews.co/tags/bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>psychology</title>
-      <link>https://news.wews.co/tags/psychology/</link>
+      <link>https://bookmarks.wews.co/tags/psychology/</link>
       <pubDate>Tue, 17 Sep 2019 05:34:46 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/psychology/</guid>
+      <guid>https://bookmarks.wews.co/tags/psychology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sterotypes</title>
-      <link>https://news.wews.co/tags/sterotypes/</link>
+      <link>https://bookmarks.wews.co/tags/sterotypes/</link>
       <pubDate>Tue, 17 Sep 2019 05:34:46 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/sterotypes/</guid>
+      <guid>https://bookmarks.wews.co/tags/sterotypes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nodejs</title>
-      <link>https://news.wews.co/tags/nodejs/</link>
+      <link>https://bookmarks.wews.co/tags/nodejs/</link>
       <pubDate>Tue, 17 Sep 2019 05:10:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/nodejs/</guid>
+      <guid>https://bookmarks.wews.co/tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>promises</title>
-      <link>https://news.wews.co/tags/promises/</link>
+      <link>https://bookmarks.wews.co/tags/promises/</link>
       <pubDate>Tue, 17 Sep 2019 05:10:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/promises/</guid>
+      <guid>https://bookmarks.wews.co/tags/promises/</guid>
       <description></description>
     </item>
     
     <item>
       <title>colors</title>
-      <link>https://news.wews.co/tags/colors/</link>
+      <link>https://bookmarks.wews.co/tags/colors/</link>
       <pubDate>Sun, 15 Sep 2019 19:25:31 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/colors/</guid>
+      <guid>https://bookmarks.wews.co/tags/colors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design tools</title>
-      <link>https://news.wews.co/tags/design-tools/</link>
+      <link>https://bookmarks.wews.co/tags/design-tools/</link>
       <pubDate>Sun, 15 Sep 2019 19:25:31 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/design-tools/</guid>
+      <guid>https://bookmarks.wews.co/tags/design-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gradients</title>
-      <link>https://news.wews.co/tags/gradients/</link>
+      <link>https://bookmarks.wews.co/tags/gradients/</link>
       <pubDate>Sun, 15 Sep 2019 19:24:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/gradients/</guid>
+      <guid>https://bookmarks.wews.co/tags/gradients/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jquery</title>
-      <link>https://news.wews.co/tags/jquery/</link>
+      <link>https://bookmarks.wews.co/tags/jquery/</link>
       <pubDate>Sun, 15 Sep 2019 17:30:41 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/jquery/</guid>
+      <guid>https://bookmarks.wews.co/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>style guide</title>
-      <link>https://news.wews.co/tags/style-guide/</link>
+      <link>https://bookmarks.wews.co/tags/style-guide/</link>
       <pubDate>Fri, 13 Sep 2019 08:25:59 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/style-guide/</guid>
+      <guid>https://bookmarks.wews.co/tags/style-guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://news.wews.co/tags/html/</link>
+      <link>https://bookmarks.wews.co/tags/html/</link>
       <pubDate>Fri, 13 Sep 2019 08:25:49 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/html/</guid>
+      <guid>https://bookmarks.wews.co/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>practices</title>
-      <link>https://news.wews.co/tags/practices/</link>
+      <link>https://bookmarks.wews.co/tags/practices/</link>
       <pubDate>Fri, 13 Sep 2019 08:13:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/practices/</guid>
+      <guid>https://bookmarks.wews.co/tags/practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software</title>
-      <link>https://news.wews.co/tags/software/</link>
+      <link>https://bookmarks.wews.co/tags/software/</link>
       <pubDate>Fri, 13 Sep 2019 08:13:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/software/</guid>
+      <guid>https://bookmarks.wews.co/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software industry</title>
-      <link>https://news.wews.co/tags/software-industry/</link>
+      <link>https://bookmarks.wews.co/tags/software-industry/</link>
       <pubDate>Thu, 12 Sep 2019 23:47:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/software-industry/</guid>
+      <guid>https://bookmarks.wews.co/tags/software-industry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>password management</title>
-      <link>https://news.wews.co/tags/password-management/</link>
+      <link>https://bookmarks.wews.co/tags/password-management/</link>
       <pubDate>Wed, 11 Sep 2019 11:04:05 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/password-management/</guid>
+      <guid>https://bookmarks.wews.co/tags/password-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>webdev</title>
-      <link>https://news.wews.co/tags/webdev/</link>
+      <link>https://bookmarks.wews.co/tags/webdev/</link>
       <pubDate>Wed, 11 Sep 2019 10:57:56 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/webdev/</guid>
+      <guid>https://bookmarks.wews.co/tags/webdev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cgi scripts</title>
-      <link>https://news.wews.co/tags/cgi-scripts/</link>
+      <link>https://bookmarks.wews.co/tags/cgi-scripts/</link>
       <pubDate>Wed, 11 Sep 2019 10:39:07 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/cgi-scripts/</guid>
+      <guid>https://bookmarks.wews.co/tags/cgi-scripts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>explanation</title>
-      <link>https://news.wews.co/tags/explanation/</link>
+      <link>https://bookmarks.wews.co/tags/explanation/</link>
       <pubDate>Wed, 11 Sep 2019 10:39:07 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/explanation/</guid>
+      <guid>https://bookmarks.wews.co/tags/explanation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jwt</title>
-      <link>https://news.wews.co/tags/jwt/</link>
+      <link>https://bookmarks.wews.co/tags/jwt/</link>
       <pubDate>Wed, 11 Sep 2019 10:36:51 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/jwt/</guid>
+      <guid>https://bookmarks.wews.co/tags/jwt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://news.wews.co/tags/programming/</link>
+      <link>https://bookmarks.wews.co/tags/programming/</link>
       <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/programming/</guid>
+      <guid>https://bookmarks.wews.co/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>static site</title>
-      <link>https://news.wews.co/tags/static-site/</link>
+      <link>https://bookmarks.wews.co/tags/static-site/</link>
       <pubDate>Tue, 10 Sep 2019 17:41:37 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/static-site/</guid>
+      <guid>https://bookmarks.wews.co/tags/static-site/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mugabe</title>
-      <link>https://news.wews.co/tags/mugabe/</link>
+      <link>https://bookmarks.wews.co/tags/mugabe/</link>
       <pubDate>Tue, 10 Sep 2019 00:05:27 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/mugabe/</guid>
+      <guid>https://bookmarks.wews.co/tags/mugabe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>business</title>
-      <link>https://news.wews.co/tags/business/</link>
+      <link>https://bookmarks.wews.co/tags/business/</link>
       <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/business/</guid>
+      <guid>https://bookmarks.wews.co/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inspirational</title>
-      <link>https://news.wews.co/tags/inspirational/</link>
+      <link>https://bookmarks.wews.co/tags/inspirational/</link>
       <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/inspirational/</guid>
+      <guid>https://bookmarks.wews.co/tags/inspirational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>internet</title>
-      <link>https://news.wews.co/tags/internet/</link>
+      <link>https://bookmarks.wews.co/tags/internet/</link>
       <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
       
-      <guid>https://news.wews.co/tags/internet/</guid>
+      <guid>https://bookmarks.wews.co/tags/internet/</guid>
       <description></description>
     </item>
     

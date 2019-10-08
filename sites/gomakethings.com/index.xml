@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gomakethings.com on hugonews</title>
-    <link>https://news.wews.co/sites/gomakethings.com/</link>
-    <description>Recent content in gomakethings.com on hugonews</description>
+    <title>gomakethings.com on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/sites/gomakethings.com/</link>
+    <description>Recent content in gomakethings.com on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Oct 2019 10:52:07 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/sites/gomakethings.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/sites/gomakethings.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Array.reduce() in vanilla JS</title>
-      <link>https://news.wews.co/items/using-array.reduce-in-vanilla-js/</link>
+      <link>https://bookmarks.wews.co/items/using-array.reduce-in-vanilla-js/</link>
       <pubDate>Wed, 02 Oct 2019 10:52:07 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/using-array.reduce-in-vanilla-js/</guid>
+      <guid>https://bookmarks.wews.co/items/using-array.reduce-in-vanilla-js/</guid>
       <description></description>
     </item>
     

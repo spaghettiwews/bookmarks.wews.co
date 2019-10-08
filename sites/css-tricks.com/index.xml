@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>css-tricks.com on hugonews</title>
-    <link>https://news.wews.co/sites/css-tricks.com/</link>
-    <description>Recent content in css-tricks.com on hugonews</description>
+    <title>css-tricks.com on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/sites/css-tricks.com/</link>
+    <description>Recent content in css-tricks.com on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2019 23:44:29 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/sites/css-tricks.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/sites/css-tricks.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adaptive Photo Layout with Flexbox</title>
-      <link>https://news.wews.co/items/adaptive-photo-layout-with-flexbox/</link>
+      <link>https://bookmarks.wews.co/items/adaptive-photo-layout-with-flexbox/</link>
       <pubDate>Mon, 07 Oct 2019 23:44:29 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/adaptive-photo-layout-with-flexbox/</guid>
+      <guid>https://bookmarks.wews.co/items/adaptive-photo-layout-with-flexbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reactive UI’s with VanillaJS – Part 1: Pure Functional Style</title>
-      <link>https://news.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</link>
+      <link>https://bookmarks.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</link>
       <pubDate>Wed, 02 Oct 2019 07:48:06 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</guid>
+      <guid>https://bookmarks.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</guid>
       <description></description>
     </item>
     

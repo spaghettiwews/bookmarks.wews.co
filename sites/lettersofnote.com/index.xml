@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lettersofnote.com on hugonews</title>
-    <link>https://news.wews.co/sites/lettersofnote.com/</link>
-    <description>Recent content in lettersofnote.com on hugonews</description>
+    <title>lettersofnote.com on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/sites/lettersofnote.com/</link>
+    <description>Recent content in lettersofnote.com on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Sep 2019 05:38:05 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/sites/lettersofnote.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/sites/lettersofnote.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On the Meaning of Life</title>
-      <link>https://news.wews.co/items/on-the-meaning-of-life/</link>
+      <link>https://bookmarks.wews.co/items/on-the-meaning-of-life/</link>
       <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/on-the-meaning-of-life/</guid>
+      <guid>https://bookmarks.wews.co/items/on-the-meaning-of-life/</guid>
       <description> What the meaning of human life may be I don’t know: I incline to suspect that it has none.
 No show, however good, could conceivably be good for ever.
  </description>

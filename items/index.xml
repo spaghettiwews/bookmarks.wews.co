@@ -1,220 +1,220 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Items on hugonews</title>
-    <link>https://news.wews.co/items/</link>
-    <description>Recent content in Items on hugonews</description>
+    <title>Items on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/items/</link>
+    <description>Recent content in Items on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2019 23:44:29 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/items/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/items/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adaptive Photo Layout with Flexbox</title>
-      <link>https://news.wews.co/items/adaptive-photo-layout-with-flexbox/</link>
+      <link>https://bookmarks.wews.co/items/adaptive-photo-layout-with-flexbox/</link>
       <pubDate>Mon, 07 Oct 2019 23:44:29 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/adaptive-photo-layout-with-flexbox/</guid>
+      <guid>https://bookmarks.wews.co/items/adaptive-photo-layout-with-flexbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Go Programming - Golang Tutorial for Beginners</title>
-      <link>https://news.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</link>
+      <link>https://bookmarks.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</link>
       <pubDate>Fri, 04 Oct 2019 21:31:41 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</guid>
+      <guid>https://bookmarks.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</guid>
       <description>Variable declaration  var foo int declare and initialise later; useful for var foo int = 42 useful when compiler might guess the variable type wrong foo := 42 declare and initialise shorthand. let compiler decide type variables cannot be redeclared but can be assigned new values all variables must be used  Visibility  lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package</description>
     </item>
     
     <item>
       <title>3D for Reddit</title>
-      <link>https://news.wews.co/items/3dforreddit/</link>
+      <link>https://bookmarks.wews.co/items/3dforreddit/</link>
       <pubDate>Thu, 03 Oct 2019 10:46:04 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/3dforreddit/</guid>
+      <guid>https://bookmarks.wews.co/items/3dforreddit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inverter Basics and Selecting the Right Model</title>
-      <link>https://news.wews.co/items/inverter-basics-selection/</link>
+      <link>https://bookmarks.wews.co/items/inverter-basics-selection/</link>
       <pubDate>Thu, 03 Oct 2019 08:14:33 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/inverter-basics-selection/</guid>
+      <guid>https://bookmarks.wews.co/items/inverter-basics-selection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Set Up Off-the-Grid Solar Power</title>
-      <link>https://news.wews.co/items/set-up-off-grid-solar-power/</link>
+      <link>https://bookmarks.wews.co/items/set-up-off-grid-solar-power/</link>
       <pubDate>Thu, 03 Oct 2019 08:06:56 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/set-up-off-grid-solar-power/</guid>
+      <guid>https://bookmarks.wews.co/items/set-up-off-grid-solar-power/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Shop for Solar Power: Solar Panels, Inverters, and More</title>
-      <link>https://news.wews.co/items/how-shop-solar-power-panels-inverters-more/</link>
+      <link>https://bookmarks.wews.co/items/how-shop-solar-power-panels-inverters-more/</link>
       <pubDate>Thu, 03 Oct 2019 08:04:48 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/how-shop-solar-power-panels-inverters-more/</guid>
+      <guid>https://bookmarks.wews.co/items/how-shop-solar-power-panels-inverters-more/</guid>
       <description></description>
     </item>
     
     <item>
       <title>You Are Solving The Wrong Problem</title>
-      <link>https://news.wews.co/items/the-wrong-problem/</link>
+      <link>https://bookmarks.wews.co/items/the-wrong-problem/</link>
       <pubDate>Thu, 03 Oct 2019 07:50:11 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/the-wrong-problem/</guid>
+      <guid>https://bookmarks.wews.co/items/the-wrong-problem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Array.reduce() in vanilla JS</title>
-      <link>https://news.wews.co/items/using-array.reduce-in-vanilla-js/</link>
+      <link>https://bookmarks.wews.co/items/using-array.reduce-in-vanilla-js/</link>
       <pubDate>Wed, 02 Oct 2019 10:52:07 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/using-array.reduce-in-vanilla-js/</guid>
+      <guid>https://bookmarks.wews.co/items/using-array.reduce-in-vanilla-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subgrids Considered Essential</title>
-      <link>https://news.wews.co/items/subgrids-considered-essential/</link>
+      <link>https://bookmarks.wews.co/items/subgrids-considered-essential/</link>
       <pubDate>Wed, 02 Oct 2019 08:24:52 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/subgrids-considered-essential/</guid>
+      <guid>https://bookmarks.wews.co/items/subgrids-considered-essential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Porsche by VW</title>
-      <link>https://news.wews.co/items/porsche-by-vw/</link>
+      <link>https://bookmarks.wews.co/items/porsche-by-vw/</link>
       <pubDate>Wed, 02 Oct 2019 07:58:12 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/porsche-by-vw/</guid>
+      <guid>https://bookmarks.wews.co/items/porsche-by-vw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Switching From WordPress To Hugo</title>
-      <link>https://news.wews.co/items/switch-wordpress-hugo/</link>
+      <link>https://bookmarks.wews.co/items/switch-wordpress-hugo/</link>
       <pubDate>Wed, 02 Oct 2019 07:54:50 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/switch-wordpress-hugo/</guid>
+      <guid>https://bookmarks.wews.co/items/switch-wordpress-hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Download Torrents from the Command Line in Ubuntu</title>
-      <link>https://news.wews.co/items/how-to-download-torrents-from-the-command-line-in-ubuntu/</link>
+      <link>https://bookmarks.wews.co/items/how-to-download-torrents-from-the-command-line-in-ubuntu/</link>
       <pubDate>Wed, 02 Oct 2019 07:52:46 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/how-to-download-torrents-from-the-command-line-in-ubuntu/</guid>
+      <guid>https://bookmarks.wews.co/items/how-to-download-torrents-from-the-command-line-in-ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Linux] How to login Azure Linux VM’s using SSH key pair</title>
-      <link>https://news.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</link>
+      <link>https://bookmarks.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</link>
       <pubDate>Wed, 02 Oct 2019 07:51:12 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</guid>
+      <guid>https://bookmarks.wews.co/items/linux-ssh-how-to-login-azure-linux-vms-using-ssh-key-pair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reactive UI’s with VanillaJS – Part 1: Pure Functional Style</title>
-      <link>https://news.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</link>
+      <link>https://bookmarks.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</link>
       <pubDate>Wed, 02 Oct 2019 07:48:06 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</guid>
+      <guid>https://bookmarks.wews.co/items/reactive-uis-vanillajs-part-1-pure-functional-style/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advice to People Nurturing a Career in Computering</title>
-      <link>https://news.wews.co/items/career-advice-2019-06-18/</link>
+      <link>https://bookmarks.wews.co/items/career-advice-2019-06-18/</link>
       <pubDate>Wed, 02 Oct 2019 07:46:12 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/career-advice-2019-06-18/</guid>
+      <guid>https://bookmarks.wews.co/items/career-advice-2019-06-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Oatmeal vs. FunnyJunk: webcomic copyright fight gets personal</title>
-      <link>https://news.wews.co/items/funnyjunk-vs-the-oatmeal/</link>
+      <link>https://bookmarks.wews.co/items/funnyjunk-vs-the-oatmeal/</link>
       <pubDate>Tue, 17 Sep 2019 20:06:06 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/funnyjunk-vs-the-oatmeal/</guid>
+      <guid>https://bookmarks.wews.co/items/funnyjunk-vs-the-oatmeal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How one man tracked down Anonymous — and paid a heavy price</title>
-      <link>https://news.wews.co/items/how-one-security-firm-tracked-anonymousand-paid-a-heavy-price/</link>
+      <link>https://bookmarks.wews.co/items/how-one-security-firm-tracked-anonymousand-paid-a-heavy-price/</link>
       <pubDate>Tue, 17 Sep 2019 19:41:32 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/how-one-security-firm-tracked-anonymousand-paid-a-heavy-price/</guid>
+      <guid>https://bookmarks.wews.co/items/how-one-security-firm-tracked-anonymousand-paid-a-heavy-price/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transfer to Title</title>
-      <link>https://news.wews.co/items/transfer-to-title/</link>
+      <link>https://bookmarks.wews.co/items/transfer-to-title/</link>
       <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/transfer-to-title/</guid>
+      <guid>https://bookmarks.wews.co/items/transfer-to-title/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Guide to the Transfer Process of Immovable Property in Zimbabwe</title>
-      <link>https://news.wews.co/items/a-guide-to-the-transfer-process-of-immovable-property-in-zimbabwe/</link>
+      <link>https://bookmarks.wews.co/items/a-guide-to-the-transfer-process-of-immovable-property-in-zimbabwe/</link>
       <pubDate>Tue, 17 Sep 2019 12:06:36 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/a-guide-to-the-transfer-process-of-immovable-property-in-zimbabwe/</guid>
+      <guid>https://bookmarks.wews.co/items/a-guide-to-the-transfer-process-of-immovable-property-in-zimbabwe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The World’s Loudest Sound</title>
-      <link>https://news.wews.co/items/the-worlds-loudest-sound/</link>
+      <link>https://bookmarks.wews.co/items/the-worlds-loudest-sound/</link>
       <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/the-worlds-loudest-sound/</guid>
+      <guid>https://bookmarks.wews.co/items/the-worlds-loudest-sound/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Sound So Loud That It Circled the Earth Four Times</title>
-      <link>https://news.wews.co/items/the-sound-so-loud-that-it-circled-the-earth-four-times/</link>
+      <link>https://bookmarks.wews.co/items/the-sound-so-loud-that-it-circled-the-earth-four-times/</link>
       <pubDate>Tue, 17 Sep 2019 11:45:53 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/the-sound-so-loud-that-it-circled-the-earth-four-times/</guid>
+      <guid>https://bookmarks.wews.co/items/the-sound-so-loud-that-it-circled-the-earth-four-times/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A successful Git branching model</title>
-      <link>https://news.wews.co/items/a-successful-git-branching-model/</link>
+      <link>https://bookmarks.wews.co/items/a-successful-git-branching-model/</link>
       <pubDate>Tue, 17 Sep 2019 05:46:39 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/a-successful-git-branching-model/</guid>
+      <guid>https://bookmarks.wews.co/items/a-successful-git-branching-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Meaning of Life</title>
-      <link>https://news.wews.co/items/on-the-meaning-of-life/</link>
+      <link>https://bookmarks.wews.co/items/on-the-meaning-of-life/</link>
       <pubDate>Tue, 17 Sep 2019 05:38:05 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/on-the-meaning-of-life/</guid>
+      <guid>https://bookmarks.wews.co/items/on-the-meaning-of-life/</guid>
       <description> What the meaning of human life may be I don’t know: I incline to suspect that it has none.
 No show, however good, could conceivably be good for ever.
  </description>
@@ -222,173 +222,173 @@ No show, however good, could conceivably be good for ever.
     
     <item>
       <title>Where Bias Begins: The Truth About Stereotypes</title>
-      <link>https://news.wews.co/items/where-bias-begins-the-truth-about-stereotypes/</link>
+      <link>https://bookmarks.wews.co/items/where-bias-begins-the-truth-about-stereotypes/</link>
       <pubDate>Tue, 17 Sep 2019 05:34:46 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/where-bias-begins-the-truth-about-stereotypes/</guid>
+      <guid>https://bookmarks.wews.co/items/where-bias-begins-the-truth-about-stereotypes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript Promises with Node.js</title>
-      <link>https://news.wews.co/items/javascript-promises-with-node-js/</link>
+      <link>https://bookmarks.wews.co/items/javascript-promises-with-node-js/</link>
       <pubDate>Tue, 17 Sep 2019 05:10:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/javascript-promises-with-node-js/</guid>
+      <guid>https://bookmarks.wews.co/items/javascript-promises-with-node-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Color Hunt: Color Palettes for Designers and Artists</title>
-      <link>https://news.wews.co/items/color-hunt-color-palettes-for-designers-and-artists/</link>
+      <link>https://bookmarks.wews.co/items/color-hunt-color-palettes-for-designers-and-artists/</link>
       <pubDate>Sun, 15 Sep 2019 19:25:31 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/color-hunt-color-palettes-for-designers-and-artists/</guid>
+      <guid>https://bookmarks.wews.co/items/color-hunt-color-palettes-for-designers-and-artists/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradient Hunt: Gradients for Designers and Artists</title>
-      <link>https://news.wews.co/items/gradient-hunt-gradients-for-designers-and-artists/</link>
+      <link>https://bookmarks.wews.co/items/gradient-hunt-gradients-for-designers-and-artists/</link>
       <pubDate>Sun, 15 Sep 2019 19:24:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/gradient-hunt-gradients-for-designers-and-artists/</guid>
+      <guid>https://bookmarks.wews.co/items/gradient-hunt-gradients-for-designers-and-artists/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The history and legacy of jQuery</title>
-      <link>https://news.wews.co/items/the-history-and-legacy-of-jquery/</link>
+      <link>https://bookmarks.wews.co/items/the-history-and-legacy-of-jquery/</link>
       <pubDate>Sun, 15 Sep 2019 17:30:41 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/the-history-and-legacy-of-jquery/</guid>
+      <guid>https://bookmarks.wews.co/items/the-history-and-legacy-of-jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google JavaScript Style Guide</title>
-      <link>https://news.wews.co/items/google-js-style-guide/</link>
+      <link>https://bookmarks.wews.co/items/google-js-style-guide/</link>
       <pubDate>Fri, 13 Sep 2019 08:25:59 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/google-js-style-guide/</guid>
+      <guid>https://bookmarks.wews.co/items/google-js-style-guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google HTML/CSS Style Guide</title>
-      <link>https://news.wews.co/items/google-html-css-style-guide/</link>
+      <link>https://bookmarks.wews.co/items/google-html-css-style-guide/</link>
       <pubDate>Fri, 13 Sep 2019 08:25:49 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/google-html-css-style-guide/</guid>
+      <guid>https://bookmarks.wews.co/items/google-html-css-style-guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Engineering Practices Documentation</title>
-      <link>https://news.wews.co/items/google-engineering-practices/</link>
+      <link>https://bookmarks.wews.co/items/google-engineering-practices/</link>
       <pubDate>Fri, 13 Sep 2019 08:13:47 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/google-engineering-practices/</guid>
+      <guid>https://bookmarks.wews.co/items/google-engineering-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software disenchantment</title>
-      <link>https://news.wews.co/items/software-disenchantment/</link>
+      <link>https://bookmarks.wews.co/items/software-disenchantment/</link>
       <pubDate>Thu, 12 Sep 2019 23:47:15 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/software-disenchantment/</guid>
+      <guid>https://bookmarks.wews.co/items/software-disenchantment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Switching from 1Password to Bitwarden</title>
-      <link>https://news.wews.co/items/switching-from-1password-to-bitwarden/</link>
+      <link>https://bookmarks.wews.co/items/switching-from-1password-to-bitwarden/</link>
       <pubDate>Wed, 11 Sep 2019 11:04:05 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/switching-from-1password-to-bitwarden/</guid>
+      <guid>https://bookmarks.wews.co/items/switching-from-1password-to-bitwarden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using CSS Grid the right way</title>
-      <link>https://news.wews.co/items/using-css-grid-the-right-way/</link>
+      <link>https://bookmarks.wews.co/items/using-css-grid-the-right-way/</link>
       <pubDate>Wed, 11 Sep 2019 10:57:56 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/using-css-grid-the-right-way/</guid>
+      <guid>https://bookmarks.wews.co/items/using-css-grid-the-right-way/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What were CGI scripts?</title>
-      <link>https://news.wews.co/items/what-were-cgi-scripts/</link>
+      <link>https://bookmarks.wews.co/items/what-were-cgi-scripts/</link>
       <pubDate>Wed, 11 Sep 2019 10:39:07 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/what-were-cgi-scripts/</guid>
+      <guid>https://bookmarks.wews.co/items/what-were-cgi-scripts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Authorization With JSON Web Tokens</title>
-      <link>https://news.wews.co/items/authorization-with-json-web-tokens/</link>
+      <link>https://bookmarks.wews.co/items/authorization-with-json-web-tokens/</link>
       <pubDate>Wed, 11 Sep 2019 10:36:51 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/authorization-with-json-web-tokens/</guid>
+      <guid>https://bookmarks.wews.co/items/authorization-with-json-web-tokens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What the heck is the Event Loop anyway?</title>
-      <link>https://news.wews.co/items/what-the-heck-is-the-event-loop-anyway/</link>
+      <link>https://bookmarks.wews.co/items/what-the-heck-is-the-event-loop-anyway/</link>
       <pubDate>Wed, 11 Sep 2019 00:09:38 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/what-the-heck-is-the-event-loop-anyway/</guid>
+      <guid>https://bookmarks.wews.co/items/what-the-heck-is-the-event-loop-anyway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Golang - From Zero to Hero</title>
-      <link>https://news.wews.co/items/learning-golang-from-zero-to-hero/</link>
+      <link>https://bookmarks.wews.co/items/learning-golang-from-zero-to-hero/</link>
       <pubDate>Wed, 11 Sep 2019 00:03:44 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/learning-golang-from-zero-to-hero/</guid>
+      <guid>https://bookmarks.wews.co/items/learning-golang-from-zero-to-hero/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go by Example</title>
-      <link>https://news.wews.co/items/go-by-example/</link>
+      <link>https://bookmarks.wews.co/items/go-by-example/</link>
       <pubDate>Tue, 10 Sep 2019 23:08:58 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/go-by-example/</guid>
+      <guid>https://bookmarks.wews.co/items/go-by-example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo, the scope, the context and the dot</title>
-      <link>https://news.wews.co/items/hugo-the-scope-the-context-and-the-dot/</link>
+      <link>https://bookmarks.wews.co/items/hugo-the-scope-the-context-and-the-dot/</link>
       <pubDate>Tue, 10 Sep 2019 17:41:37 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/hugo-the-scope-the-context-and-the-dot/</guid>
+      <guid>https://bookmarks.wews.co/items/hugo-the-scope-the-context-and-the-dot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Saturday Read: The death of Robert Mugabe</title>
-      <link>https://news.wews.co/items/big-saturday-read-the-death-of-robert-mugabe/</link>
+      <link>https://bookmarks.wews.co/items/big-saturday-read-the-death-of-robert-mugabe/</link>
       <pubDate>Tue, 10 Sep 2019 00:05:27 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/big-saturday-read-the-death-of-robert-mugabe/</guid>
+      <guid>https://bookmarks.wews.co/items/big-saturday-read-the-death-of-robert-mugabe/</guid>
       <description>A legacy of tyrannical rule, economic ruin, and dreams destroyed.
  Gukurahundi Murambatsvina June 27 2008 election violence &amp;amp; murders Hyperinflation Corruption/Scandals  </description>
     </item>
     
     <item>
       <title>I Sell Onions on the Internet</title>
-      <link>https://news.wews.co/items/i-sell-onions-on-the-internet/</link>
+      <link>https://bookmarks.wews.co/items/i-sell-onions-on-the-internet/</link>
       <pubDate>Mon, 09 Sep 2019 23:44:59 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/i-sell-onions-on-the-internet/</guid>
+      <guid>https://bookmarks.wews.co/items/i-sell-onions-on-the-internet/</guid>
       <description></description>
     </item>
     

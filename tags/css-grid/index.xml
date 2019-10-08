@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>css grid on hugonews</title>
-    <link>https://news.wews.co/tags/css-grid/</link>
-    <description>Recent content in css grid on hugonews</description>
+    <title>css grid on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/tags/css-grid/</link>
+    <description>Recent content in css grid on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Oct 2019 08:24:52 +0200</lastBuildDate>
     
-	<atom:link href="https://news.wews.co/tags/css-grid/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bookmarks.wews.co/tags/css-grid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Subgrids Considered Essential</title>
-      <link>https://news.wews.co/items/subgrids-considered-essential/</link>
+      <link>https://bookmarks.wews.co/items/subgrids-considered-essential/</link>
       <pubDate>Wed, 02 Oct 2019 08:24:52 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/subgrids-considered-essential/</guid>
+      <guid>https://bookmarks.wews.co/items/subgrids-considered-essential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using CSS Grid the right way</title>
-      <link>https://news.wews.co/items/using-css-grid-the-right-way/</link>
+      <link>https://bookmarks.wews.co/items/using-css-grid-the-right-way/</link>
       <pubDate>Wed, 11 Sep 2019 10:57:56 +0200</pubDate>
       
-      <guid>https://news.wews.co/items/using-css-grid-the-right-way/</guid>
+      <guid>https://bookmarks.wews.co/items/using-css-grid-the-right-way/</guid>
       <description></description>
     </item>
     
