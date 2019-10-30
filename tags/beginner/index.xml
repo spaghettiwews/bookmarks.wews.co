@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beginner on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/tags/beginner/</link>
+    <description>Recent content in beginner on the bookmarks of wews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2019 11:07:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://bookmarks.wews.co/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get Going: Hello, World!</title>
+      <link>https://bookmarks.wews.co/items/get-going-hello-world-2019-10-28/</link>
+      <pubDate>Wed, 30 Oct 2019 11:07:01 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/get-going-hello-world-2019-10-28/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

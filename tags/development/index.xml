@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/tags/development/</link>
+    <description>Recent content in development on the bookmarks of wews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2019 17:43:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://bookmarks.wews.co/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Free Resources for Development</title>
+      <link>https://bookmarks.wews.co/items/free-for-dev/</link>
+      <pubDate>Wed, 16 Oct 2019 17:43:58 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/free-for-dev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

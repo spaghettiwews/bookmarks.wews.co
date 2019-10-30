@@ -6,10 +6,28 @@
     <description>Recent content in golang on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2019 21:31:41 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 11:07:01 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Get Going: Hello, World!</title>
+      <link>https://bookmarks.wews.co/items/get-going-hello-world-2019-10-28/</link>
+      <pubDate>Wed, 30 Oct 2019 11:07:01 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/get-going-hello-world-2019-10-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gophercises - Free Coding Exercises for Budding Gophers</title>
+      <link>https://bookmarks.wews.co/items/gophercises-free-coding-exercises-for-budding-gophers/</link>
+      <pubDate>Wed, 30 Oct 2019 09:32:32 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/gophercises-free-coding-exercises-for-budding-gophers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Go Programming - Golang Tutorial for Beginners</title>

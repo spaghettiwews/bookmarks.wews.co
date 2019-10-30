@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <link rel="stylesheet" href="/css/style.css">
+    <title>the bookmarks of wews</title>
+</head>
+<body>
+<header id="header">
+    <h1><a href="/">the bookmarks of wews</a></h1>
+    <nav>
+        <ul>
+            <li><a href="/tags">tags</a></li>
+            <li><a href="/sites">sites</a></li>
+            <li><a href="https://github.com/spaghettiwews/hugonews">github</a></li>
+        </ul>
+    </nav>
+</header>
+<main id="main">
+    <article class="single">
+        
+        
+
+<h2 id="same-origin-policy-cors">Same Origin Policy &amp; CORS</h2>
+
+<ul>
+<li>SOP prevents documents or scripts loaded from one origin (e.g. a domain) to access resources from other origins</li>
+<li>for all requests, browsers always and automatically attach any cookies bounded for the destination domain.</li>
+<li>exceptions - img, script, iframe. why? tags are in the the control of the browser whereas javascript is in full control and as such a AJAX call is potentially more dangerous.</li>
+<li>two origins are equal if they have the same protocol, host, and port. known as the &ldquo;scheme/host/port&rdquo; tuple</li>
+<li>CORS is not a security mechanism but a way to relax security. makes it possible to access resources from foreign origins</li>
+<li>SOP doesn’t apply to server-to-server communication, only to browser-to-server comms. Because of this you can use a proxy server to circumvent the SOP protections</li>
+</ul>
+
+        
+    </article>
+</main>
+<footer id="footer">look ma, a footer</footer>
+</body>
+</html>

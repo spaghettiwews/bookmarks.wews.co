@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medium.com on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/sites/medium.com/</link>
+    <description>Recent content in medium.com on the bookmarks of wews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Oct 2019 14:36:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://bookmarks.wews.co/sites/medium.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools I recommend for building Geospatial Web Applications</title>
+      <link>https://bookmarks.wews.co/items/tools-i-recommend-for-building-geospatial-web-applications/</link>
+      <pubDate>Tue, 08 Oct 2019 14:36:51 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/tools-i-recommend-for-building-geospatial-web-applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
