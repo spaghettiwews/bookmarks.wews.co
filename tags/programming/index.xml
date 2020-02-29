@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>programming on the bookmarks of wews</title>
@@ -6,10 +6,28 @@
     <description>Recent content in programming on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2019 08:13:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 18:47:55 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang tutorial series</title>
+      <link>https://bookmarks.wews.co/items/learn-golang-series/</link>
+      <pubDate>Sat, 29 Feb 2020 18:47:55 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/learn-golang-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A half-hour to learn Rust</title>
+      <link>https://bookmarks.wews.co/items/a-half-hour-to-learn-rust/</link>
+      <pubDate>Sat, 29 Feb 2020 15:10:09 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/a-half-hour-to-learn-rust/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Surprising Number Of Programmers Who Can’t Program</title>

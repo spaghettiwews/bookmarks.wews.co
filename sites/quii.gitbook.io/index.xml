@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quii.gitbook.io on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/sites/quii.gitbook.io/</link>
+    <description>Recent content in quii.gitbook.io on the bookmarks of wews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Feb 2020 18:02:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://bookmarks.wews.co/sites/quii.gitbook.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn Go with tests</title>
+      <link>https://bookmarks.wews.co/items/learn-go-with-tests/</link>
+      <pubDate>Sat, 29 Feb 2020 18:02:11 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/learn-go-with-tests/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

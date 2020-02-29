@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sites on the bookmarks of wews</title>
@@ -6,10 +6,118 @@
     <description>Recent content in Sites on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2019 11:07:01 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 18:47:55 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/sites/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>golangbot.com</title>
+      <link>https://bookmarks.wews.co/sites/golangbot.com/</link>
+      <pubDate>Sat, 29 Feb 2020 18:47:55 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/golangbot.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thehftguy.com</title>
+      <link>https://bookmarks.wews.co/sites/thehftguy.com/</link>
+      <pubDate>Sat, 29 Feb 2020 18:46:03 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/thehftguy.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quii.gitbook.io</title>
+      <link>https://bookmarks.wews.co/sites/quii.gitbook.io/</link>
+      <pubDate>Sat, 29 Feb 2020 18:02:11 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/quii.gitbook.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osintme.com</title>
+      <link>https://bookmarks.wews.co/sites/osintme.com/</link>
+      <pubDate>Sat, 29 Feb 2020 17:59:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/osintme.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fire.ci</title>
+      <link>https://bookmarks.wews.co/sites/fire.ci/</link>
+      <pubDate>Sat, 29 Feb 2020 15:27:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/fire.ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fasterthanli.me</title>
+      <link>https://bookmarks.wews.co/sites/fasterthanli.me/</link>
+      <pubDate>Sat, 29 Feb 2020 15:10:09 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/fasterthanli.me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fieldnotes.resistant.tech</title>
+      <link>https://bookmarks.wews.co/sites/fieldnotes.resistant.tech/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/fieldnotes.resistant.tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wh0.github.io</title>
+      <link>https://bookmarks.wews.co/sites/wh0.github.io/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/wh0.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>johncarlosbaez.wordpress.com</title>
+      <link>https://bookmarks.wews.co/sites/johncarlosbaez.wordpress.com/</link>
+      <pubDate>Thu, 13 Feb 2020 16:05:25 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/johncarlosbaez.wordpress.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium.com</title>
+      <link>https://bookmarks.wews.co/sites/medium.com/</link>
+      <pubDate>Thu, 13 Feb 2020 16:01:23 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/medium.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jvns.ca</title>
+      <link>https://bookmarks.wews.co/sites/jvns.ca/</link>
+      <pubDate>Thu, 13 Feb 2020 15:49:49 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/jvns.ca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mattstoller.substack.com</title>
+      <link>https://bookmarks.wews.co/sites/mattstoller.substack.com/</link>
+      <pubDate>Thu, 13 Feb 2020 15:44:40 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/mattstoller.substack.com/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>christine.website</title>
@@ -197,15 +305,6 @@
       <pubDate>Tue, 08 Oct 2019 14:59:46 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/sites/insider.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>medium.com</title>
-      <link>https://bookmarks.wews.co/sites/medium.com/</link>
-      <pubDate>Tue, 08 Oct 2019 14:36:51 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/sites/medium.com/</guid>
       <description></description>
     </item>
     

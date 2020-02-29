@@ -22,10 +22,7 @@
 <main id="main">
     <article class="single">
         
-        
-
-<h2 id="variable-declaration">Variable declaration</h2>
-
+        <h2 id="variable-declaration">Variable declaration</h2>
 <ul>
 <li><strong><code>var foo int</code></strong> declare and initialise later; useful for</li>
 <li><strong><code>var foo int = 42</code></strong> useful when compiler might guess the variable type wrong</li>
@@ -33,25 +30,19 @@
 <li>variables cannot be redeclared but can be assigned new values</li>
 <li>all variables must be used</li>
 </ul>
-
 <h2 id="visibility">Visibility</h2>
-
 <ul>
-<li>lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package<br /></li>
+<li>lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package\</li>
 <li>uppercase first letter means variable will be globally scoped and will be exported</li>
 <li>there is no private scope, however you can blockscope</li>
 </ul>
-
 <h2 id="naming-conventions">Naming conventions</h2>
-
 <ul>
 <li>use Pascal or camelCase for naming variables</li>
 <li>capitalise acronyms (HTTP, URL)</li>
 <li>variable names should be as short as reasonable. variables with longer life spans within the code should have longer and more meaningiful names</li>
 </ul>
-
 <h2 id="type-conversions">Type conversions</h2>
-
 <ul>
 <li>in Go the destination type we want to convert to is used somewhat like a function and we pass the variable to be converted as a parameter. <strong><code>destinationType(variable)</code></strong></li>
 <li>for strings we use the <strong><code>strconv</code></strong> package</li>

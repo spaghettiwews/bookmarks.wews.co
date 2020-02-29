@@ -1,6 +1,266 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/golang/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/learn-golang-series/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/golangbot.com/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/programming/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/tutorial/</loc>
+    <lastmod>2020-02-29T18:47:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/jwt/</loc>
+    <lastmod>2020-02-29T18:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/jwt-is-awesome-heres-why/</loc>
+    <lastmod>2020-02-29T18:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/security/</loc>
+    <lastmod>2020-02-29T18:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/thehftguy.com/</loc>
+    <lastmod>2020-02-29T18:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/learn-go-with-tests/</loc>
+    <lastmod>2020-02-29T18:02:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/quii.gitbook.io/</loc>
+    <lastmod>2020-02-29T18:02:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/career/</loc>
+    <lastmod>2020-02-29T17:59:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/how-recruiters-use-osint-and-how-it-impacts-jobseekers-an-interview-with-rose-farrell/</loc>
+    <lastmod>2020-02-29T17:59:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/job/</loc>
+    <lastmod>2020-02-29T17:59:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/osintme.com/</loc>
+    <lastmod>2020-02-29T17:59:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/recruitment/</loc>
+    <lastmod>2020-02-29T17:59:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/ci/cd/</loc>
+    <lastmod>2020-02-29T15:27:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/fire.ci/</loc>
+    <lastmod>2020-02-29T15:27:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/the-difference-between-ci-and-cd/</loc>
+    <lastmod>2020-02-29T15:27:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/a-half-hour-to-learn-rust/</loc>
+    <lastmod>2020-02-29T15:10:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/fasterthanli.me/</loc>
+    <lastmod>2020-02-29T15:10:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/rustlang/</loc>
+    <lastmod>2020-02-29T15:10:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/decentralisation/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/federation-is-the-worst-of-all-worlds/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/federeration/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/fieldnotes.resistant.tech/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/google-amp/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/google-amp-from-the-other-side/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/interesting/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/wh0.github.io/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/windows/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/windows-d/</loc>
+    <lastmod>2020-02-13T16:24:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/entropy/</loc>
+    <lastmod>2020-02-13T16:05:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/entropy-in-the-universe/</loc>
+    <lastmod>2020-02-13T16:05:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/johncarlosbaez.wordpress.com/</loc>
+    <lastmod>2020-02-13T16:05:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/science/</loc>
+    <lastmod>2020-02-13T16:05:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/build-and-deploy-a-secure-rest-api-with-go-postgresql-jwt-and-gorm/</loc>
+    <lastmod>2020-02-13T16:01:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/medium.com/</loc>
+    <lastmod>2020-02-13T16:01:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/postgres/</loc>
+    <lastmod>2020-02-13T16:01:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/rest-api/</loc>
+    <lastmod>2020-02-13T16:01:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/how-tracking-pixels-work/</loc>
+    <lastmod>2020-02-13T15:49:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/jvns.ca/</loc>
+    <lastmod>2020-02-13T15:49:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/privacy/</loc>
+    <lastmod>2020-02-13T15:49:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/tracking/</loc>
+    <lastmod>2020-02-13T15:49:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/mattstoller.substack.com/</loc>
+    <lastmod>2020-02-13T15:44:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/podcasts/</loc>
+    <lastmod>2020-02-13T15:44:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/spotify/</loc>
+    <lastmod>2020-02-13T15:44:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/will-spotify-ruin-podcasting/</loc>
+    <lastmod>2020-02-13T15:44:40+02:00</lastmod>
+  </url>
   
   <url>
     <loc>https://bookmarks.wews.co/tags/beginner/</loc>
@@ -14,36 +274,6 @@
   
   <url>
     <loc>https://bookmarks.wews.co/items/get-going-hello-world-2019-10-28/</loc>
-    <lastmod>2019-10-30T11:07:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/tags/golang/</loc>
-    <lastmod>2019-10-30T11:07:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/items/</loc>
-    <lastmod>2019-10-30T11:07:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/sites/</loc>
-    <lastmod>2019-10-30T11:07:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/tags/</loc>
-    <lastmod>2019-10-30T11:07:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/</loc>
-    <lastmod>2019-10-30T11:07:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/tags/tutorial/</loc>
     <lastmod>2019-10-30T11:07:01+02:00</lastmod>
   </url>
   
@@ -208,11 +438,6 @@
   </url>
   
   <url>
-    <loc>https://bookmarks.wews.co/tags/career/</loc>
-    <lastmod>2019-10-30T08:28:26+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bookmarks.wews.co/items/keeping-the-job-you-dont-like/</loc>
     <lastmod>2019-10-30T08:28:26+02:00</lastmod>
   </url>
@@ -224,11 +449,6 @@
   
   <url>
     <loc>https://bookmarks.wews.co/sites/letterstoanewdeveloper.com/</loc>
-    <lastmod>2019-10-30T08:13:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/tags/programming/</loc>
     <lastmod>2019-10-30T08:13:00+02:00</lastmod>
   </url>
   
@@ -398,11 +618,6 @@
   </url>
   
   <url>
-    <loc>https://bookmarks.wews.co/tags/interesting/</loc>
-    <lastmod>2019-10-08T16:53:55+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bookmarks.wews.co/sites/nytimes.com/</loc>
     <lastmod>2019-10-08T16:53:55+02:00</lastmod>
   </url>
@@ -464,11 +679,6 @@
   
   <url>
     <loc>https://bookmarks.wews.co/tags/leaflet/</loc>
-    <lastmod>2019-10-08T14:36:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/sites/medium.com/</loc>
     <lastmod>2019-10-08T14:36:51+02:00</lastmod>
   </url>
   
@@ -733,11 +943,6 @@
   </url>
   
   <url>
-    <loc>https://bookmarks.wews.co/tags/security/</loc>
-    <lastmod>2019-09-17T19:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bookmarks.wews.co/sites/arlington.co.zw/</loc>
     <lastmod>2019-09-17T12:08:47+02:00</lastmod>
   </url>
@@ -789,11 +994,6 @@
   
   <url>
     <loc>https://bookmarks.wews.co/tags/krakatoa/</loc>
-    <lastmod>2019-09-17T11:50:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/tags/science/</loc>
     <lastmod>2019-09-17T11:50:40+02:00</lastmod>
   </url>
   
@@ -1044,11 +1244,6 @@
   
   <url>
     <loc>https://bookmarks.wews.co/items/authorization-with-json-web-tokens/</loc>
-    <lastmod>2019-09-11T10:36:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/tags/jwt/</loc>
     <lastmod>2019-09-11T10:36:51+02:00</lastmod>
   </url>
   

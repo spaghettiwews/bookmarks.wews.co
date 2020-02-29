@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>golang on the bookmarks of wews</title>
@@ -6,10 +6,37 @@
     <description>Recent content in golang on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2019 11:07:01 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 18:47:55 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang tutorial series</title>
+      <link>https://bookmarks.wews.co/items/learn-golang-series/</link>
+      <pubDate>Sat, 29 Feb 2020 18:47:55 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/learn-golang-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Go with tests</title>
+      <link>https://bookmarks.wews.co/items/learn-go-with-tests/</link>
+      <pubDate>Sat, 29 Feb 2020 18:02:11 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/learn-go-with-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build and Deploy a secure REST API with Go, Postgresql, JWT and GORM</title>
+      <link>https://bookmarks.wews.co/items/build-and-deploy-a-secure-rest-api-with-go-postgresql-jwt-and-gorm/</link>
+      <pubDate>Thu, 13 Feb 2020 16:01:23 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/build-and-deploy-a-secure-rest-api-with-go-postgresql-jwt-and-gorm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Get Going: Hello, World!</title>
@@ -35,7 +62,7 @@
       <pubDate>Fri, 04 Oct 2019 21:31:41 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</guid>
-      <description>Variable declaration  var foo int declare and initialise later; useful for var foo int = 42 useful when compiler might guess the variable type wrong foo := 42 declare and initialise shorthand. let compiler decide type variables cannot be redeclared but can be assigned new values all variables must be used  Visibility  lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package</description>
+      <description>Variable declaration  var foo int declare and initialise later; useful for var foo int = 42 useful when compiler might guess the variable type wrong foo := 42 declare and initialise shorthand. let compiler decide type variables cannot be redeclared but can be assigned new values all variables must be used  Visibility  lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package\ uppercase first letter means variable will be globally scoped and will be exported there is no private scope, however you can blockscope  Naming conventions  use Pascal or camelCase for naming variables capitalise acronyms (HTTP, URL) variable names should be as short as reasonable.</description>
     </item>
     
     <item>
