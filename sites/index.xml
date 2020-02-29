@@ -6,10 +6,19 @@
     <description>Recent content in Sites on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Feb 2020 18:47:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 19:43:58 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/sites/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>kodify.net</title>
+      <link>https://bookmarks.wews.co/sites/kodify.net/</link>
+      <pubDate>Sat, 29 Feb 2020 19:43:58 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/kodify.net/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>golangbot.com</title>

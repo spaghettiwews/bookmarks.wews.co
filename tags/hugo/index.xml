@@ -6,10 +6,19 @@
     <description>Recent content in hugo on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2019 10:47:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 19:43:58 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to show the relative age of Hugo content with template code?</title>
+      <link>https://bookmarks.wews.co/items/relative-age-hugo/</link>
+      <pubDate>Sat, 29 Feb 2020 19:43:58 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/relative-age-hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Build a JSON API With Hugo&#39;s Custom Output Formats</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kodify.net on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/sites/kodify.net/</link>
+    <description>Recent content in kodify.net on the bookmarks of wews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Feb 2020 19:43:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://bookmarks.wews.co/sites/kodify.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to show the relative age of Hugo content with template code?</title>
+      <link>https://bookmarks.wews.co/items/relative-age-hugo/</link>
+      <pubDate>Sat, 29 Feb 2020 19:43:58 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/relative-age-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
