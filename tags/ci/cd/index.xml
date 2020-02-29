@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ci/cd on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/tags/ci/cd/</link>
+    <description>Recent content in ci/cd on the bookmarks of wews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Feb 2020 15:27:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://bookmarks.wews.co/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The difference between CI and CD</title>
+      <link>https://bookmarks.wews.co/items/the-difference-between-ci-and-cd/</link>
+      <pubDate>Sat, 29 Feb 2020 15:27:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/the-difference-between-ci-and-cd/</guid>
+      <description>A good CI build:
+ Ensures no code that breaks basic stuff and prevents other team members to work is introduced to the main branch Is fast enough to provide feedback to developers within minutes to prevent context switching between tasks    A good CD build:
+ Ensures that as many features as possible are working properly The faster the better, but it is not a matter of speed.</description>
+    </item>
+    
+  </channel>
+</rss>

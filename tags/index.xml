@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on the bookmarks of wews</title>
@@ -6,10 +6,217 @@
     <description>Recent content in Tags on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2019 11:07:01 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 18:47:55 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>golang</title>
+      <link>https://bookmarks.wews.co/tags/golang/</link>
+      <pubDate>Sat, 29 Feb 2020 18:47:55 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://bookmarks.wews.co/tags/programming/</link>
+      <pubDate>Sat, 29 Feb 2020 18:47:55 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://bookmarks.wews.co/tags/tutorial/</link>
+      <pubDate>Sat, 29 Feb 2020 18:47:55 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jwt</title>
+      <link>https://bookmarks.wews.co/tags/jwt/</link>
+      <pubDate>Sat, 29 Feb 2020 18:46:03 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/jwt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://bookmarks.wews.co/tags/security/</link>
+      <pubDate>Sat, 29 Feb 2020 18:46:03 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>https://bookmarks.wews.co/tags/career/</link>
+      <pubDate>Sat, 29 Feb 2020 17:59:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>job</title>
+      <link>https://bookmarks.wews.co/tags/job/</link>
+      <pubDate>Sat, 29 Feb 2020 17:59:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recruitment</title>
+      <link>https://bookmarks.wews.co/tags/recruitment/</link>
+      <pubDate>Sat, 29 Feb 2020 17:59:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/recruitment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci/cd</title>
+      <link>https://bookmarks.wews.co/tags/ci/cd/</link>
+      <pubDate>Sat, 29 Feb 2020 15:27:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rustlang</title>
+      <link>https://bookmarks.wews.co/tags/rustlang/</link>
+      <pubDate>Sat, 29 Feb 2020 15:10:09 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/rustlang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decentralisation</title>
+      <link>https://bookmarks.wews.co/tags/decentralisation/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/decentralisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>federeration</title>
+      <link>https://bookmarks.wews.co/tags/federeration/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/federeration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google amp</title>
+      <link>https://bookmarks.wews.co/tags/google-amp/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/google-amp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interesting</title>
+      <link>https://bookmarks.wews.co/tags/interesting/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/interesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://bookmarks.wews.co/tags/windows/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entropy</title>
+      <link>https://bookmarks.wews.co/tags/entropy/</link>
+      <pubDate>Thu, 13 Feb 2020 16:05:25 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://bookmarks.wews.co/tags/science/</link>
+      <pubDate>Thu, 13 Feb 2020 16:05:25 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postgres</title>
+      <link>https://bookmarks.wews.co/tags/postgres/</link>
+      <pubDate>Thu, 13 Feb 2020 16:01:23 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/postgres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rest api</title>
+      <link>https://bookmarks.wews.co/tags/rest-api/</link>
+      <pubDate>Thu, 13 Feb 2020 16:01:23 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://bookmarks.wews.co/tags/privacy/</link>
+      <pubDate>Thu, 13 Feb 2020 15:49:49 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tracking</title>
+      <link>https://bookmarks.wews.co/tags/tracking/</link>
+      <pubDate>Thu, 13 Feb 2020 15:49:49 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcasts</title>
+      <link>https://bookmarks.wews.co/tags/podcasts/</link>
+      <pubDate>Thu, 13 Feb 2020 15:44:40 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spotify</title>
+      <link>https://bookmarks.wews.co/tags/spotify/</link>
+      <pubDate>Thu, 13 Feb 2020 15:44:40 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/spotify/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>beginner</title>
@@ -17,24 +224,6 @@
       <pubDate>Wed, 30 Oct 2019 11:07:01 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/tags/beginner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://bookmarks.wews.co/tags/golang/</link>
-      <pubDate>Wed, 30 Oct 2019 11:07:01 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>https://bookmarks.wews.co/tags/tutorial/</link>
-      <pubDate>Wed, 30 Oct 2019 11:07:01 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/tutorial/</guid>
       <description></description>
     </item>
     
@@ -179,24 +368,6 @@
       <pubDate>Wed, 30 Oct 2019 08:30:19 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/tags/chernobyl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>career</title>
-      <link>https://bookmarks.wews.co/tags/career/</link>
-      <pubDate>Wed, 30 Oct 2019 08:28:26 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://bookmarks.wews.co/tags/programming/</link>
-      <pubDate>Wed, 30 Oct 2019 08:13:00 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/programming/</guid>
       <description></description>
     </item>
     
@@ -350,15 +521,6 @@
       <pubDate>Tue, 08 Oct 2019 16:53:55 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/tags/funny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interesting</title>
-      <link>https://bookmarks.wews.co/tags/interesting/</link>
-      <pubDate>Tue, 08 Oct 2019 16:53:55 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/interesting/</guid>
       <description></description>
     </item>
     
@@ -633,15 +795,6 @@
     </item>
     
     <item>
-      <title>security</title>
-      <link>https://bookmarks.wews.co/tags/security/</link>
-      <pubDate>Tue, 17 Sep 2019 19:41:32 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>property</title>
       <link>https://bookmarks.wews.co/tags/property/</link>
       <pubDate>Tue, 17 Sep 2019 12:08:47 +0200</pubDate>
@@ -692,15 +845,6 @@
       <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/tags/krakatoa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science</title>
-      <link>https://bookmarks.wews.co/tags/science/</link>
-      <pubDate>Tue, 17 Sep 2019 11:50:40 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/science/</guid>
       <description></description>
     </item>
     
@@ -890,15 +1034,6 @@
       <pubDate>Wed, 11 Sep 2019 10:39:07 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/tags/explanation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jwt</title>
-      <link>https://bookmarks.wews.co/tags/jwt/</link>
-      <pubDate>Wed, 11 Sep 2019 10:36:51 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/jwt/</guid>
       <description></description>
     </item>
     

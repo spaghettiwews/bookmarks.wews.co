@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>performantcode.com on the bookmarks of wews</title>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 12 Oct 2019 11:10:45 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/items/do-you-really-know-cors/</guid>
-      <description>Same Origin Policy &amp;amp; CORS  SOP prevents documents or scripts loaded from one origin (e.g. a domain) to access resources from other origins for all requests, browsers always and automatically attach any cookies bounded for the destination domain. exceptions - img, script, iframe. why? tags are in the the control of the browser whereas javascript is in full control and as such a AJAX call is potentially more dangerous.</description>
+      <description>Same Origin Policy &amp;amp; CORS  SOP prevents documents or scripts loaded from one origin (e.g. a domain) to access resources from other origins for all requests, browsers always and automatically attach any cookies bounded for the destination domain. exceptions - img, script, iframe. why? tags are in the the control of the browser whereas javascript is in full control and as such a AJAX call is potentially more dangerous. two origins are equal if they have the same protocol, host, and port.</description>
     </item>
     
   </channel>

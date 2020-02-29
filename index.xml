@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>the bookmarks of wews</title>
@@ -6,10 +6,129 @@
     <description>Recent content on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2019 11:07:01 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 18:47:55 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang tutorial series</title>
+      <link>https://bookmarks.wews.co/items/learn-golang-series/</link>
+      <pubDate>Sat, 29 Feb 2020 18:47:55 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/learn-golang-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JWT is Awesome: Here&#39;s Why</title>
+      <link>https://bookmarks.wews.co/items/jwt-is-awesome-heres-why/</link>
+      <pubDate>Sat, 29 Feb 2020 18:46:03 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/jwt-is-awesome-heres-why/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Go with tests</title>
+      <link>https://bookmarks.wews.co/items/learn-go-with-tests/</link>
+      <pubDate>Sat, 29 Feb 2020 18:02:11 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/learn-go-with-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How recruiters use OSINT and how it impacts jobseekers – an interview with Rose Farrell</title>
+      <link>https://bookmarks.wews.co/items/how-recruiters-use-osint-and-how-it-impacts-jobseekers-an-interview-with-rose-farrell/</link>
+      <pubDate>Sat, 29 Feb 2020 17:59:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/how-recruiters-use-osint-and-how-it-impacts-jobseekers-an-interview-with-rose-farrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The difference between CI and CD</title>
+      <link>https://bookmarks.wews.co/items/the-difference-between-ci-and-cd/</link>
+      <pubDate>Sat, 29 Feb 2020 15:27:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/the-difference-between-ci-and-cd/</guid>
+      <description>A good CI build:
+ Ensures no code that breaks basic stuff and prevents other team members to work is introduced to the main branch Is fast enough to provide feedback to developers within minutes to prevent context switching between tasks    A good CD build:
+ Ensures that as many features as possible are working properly The faster the better, but it is not a matter of speed.</description>
+    </item>
+    
+    <item>
+      <title>A half-hour to learn Rust</title>
+      <link>https://bookmarks.wews.co/items/a-half-hour-to-learn-rust/</link>
+      <pubDate>Sat, 29 Feb 2020 15:10:09 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/a-half-hour-to-learn-rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federation is the Worst of all Worlds</title>
+      <link>https://bookmarks.wews.co/items/federation-is-the-worst-of-all-worlds/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/federation-is-the-worst-of-all-worlds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google AMP from the other side</title>
+      <link>https://bookmarks.wews.co/items/google-amp-from-the-other-side/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/google-amp-from-the-other-side/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows&#43;D</title>
+      <link>https://bookmarks.wews.co/items/windows-d/</link>
+      <pubDate>Thu, 13 Feb 2020 16:24:52 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/windows-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy in the Universe</title>
+      <link>https://bookmarks.wews.co/items/entropy-in-the-universe/</link>
+      <pubDate>Thu, 13 Feb 2020 16:05:25 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/entropy-in-the-universe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build and Deploy a secure REST API with Go, Postgresql, JWT and GORM</title>
+      <link>https://bookmarks.wews.co/items/build-and-deploy-a-secure-rest-api-with-go-postgresql-jwt-and-gorm/</link>
+      <pubDate>Thu, 13 Feb 2020 16:01:23 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/build-and-deploy-a-secure-rest-api-with-go-postgresql-jwt-and-gorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How tracking pixels work</title>
+      <link>https://bookmarks.wews.co/items/how-tracking-pixels-work/</link>
+      <pubDate>Thu, 13 Feb 2020 15:49:49 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/how-tracking-pixels-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will Spotify Ruin Podcasting?</title>
+      <link>https://bookmarks.wews.co/items/will-spotify-ruin-podcasting/</link>
+      <pubDate>Thu, 13 Feb 2020 15:44:40 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/will-spotify-ruin-podcasting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Get Going: Hello, World!</title>
@@ -170,7 +289,7 @@
       <pubDate>Sat, 12 Oct 2019 11:10:45 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/items/do-you-really-know-cors/</guid>
-      <description>Same Origin Policy &amp;amp; CORS  SOP prevents documents or scripts loaded from one origin (e.g. a domain) to access resources from other origins for all requests, browsers always and automatically attach any cookies bounded for the destination domain. exceptions - img, script, iframe. why? tags are in the the control of the browser whereas javascript is in full control and as such a AJAX call is potentially more dangerous.</description>
+      <description>Same Origin Policy &amp;amp; CORS  SOP prevents documents or scripts loaded from one origin (e.g. a domain) to access resources from other origins for all requests, browsers always and automatically attach any cookies bounded for the destination domain. exceptions - img, script, iframe. why? tags are in the the control of the browser whereas javascript is in full control and as such a AJAX call is potentially more dangerous. two origins are equal if they have the same protocol, host, and port.</description>
     </item>
     
     <item>
@@ -233,7 +352,7 @@
       <pubDate>Fri, 04 Oct 2019 21:31:41 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/items/learning-go-programming-golang-tutorial-for-beginners/</guid>
-      <description>Variable declaration  var foo int declare and initialise later; useful for var foo int = 42 useful when compiler might guess the variable type wrong foo := 42 declare and initialise shorthand. let compiler decide type variables cannot be redeclared but can be assigned new values all variables must be used  Visibility  lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package</description>
+      <description>Variable declaration  var foo int declare and initialise later; useful for var foo int = 42 useful when compiler might guess the variable type wrong foo := 42 declare and initialise shorthand. let compiler decide type variables cannot be redeclared but can be assigned new values all variables must be used  Visibility  lowercase first letter for package scope; variable is available and is accessible to all source files that available in that package\ uppercase first letter means variable will be globally scoped and will be exported there is no private scope, however you can blockscope  Naming conventions  use Pascal or camelCase for naming variables capitalise acronyms (HTTP, URL) variable names should be as short as reasonable.</description>
     </item>
     
     <item>
@@ -423,7 +542,7 @@
       
       <guid>https://bookmarks.wews.co/items/on-the-meaning-of-life/</guid>
       <description> What the meaning of human life may be I don’t know: I incline to suspect that it has none.
-No show, however good, could conceivably be good for ever.
+  No show, however good, could conceivably be good for ever.
  </description>
     </item>
     
