@@ -6,10 +6,28 @@
     <description>Recent content in Tags on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Feb 2020 21:39:38 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 11:29:47 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>career</title>
+      <link>https://bookmarks.wews.co/tags/career/</link>
+      <pubDate>Sun, 01 Mar 2020 11:29:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interviews</title>
+      <link>https://bookmarks.wews.co/tags/interviews/</link>
+      <pubDate>Sun, 01 Mar 2020 11:29:47 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/tags/interviews/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>react</title>
@@ -71,15 +89,6 @@
       <pubDate>Sat, 29 Feb 2020 18:46:03 +0200</pubDate>
       
       <guid>https://bookmarks.wews.co/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>career</title>
-      <link>https://bookmarks.wews.co/tags/career/</link>
-      <pubDate>Sat, 29 Feb 2020 17:59:47 +0200</pubDate>
-      
-      <guid>https://bookmarks.wews.co/tags/career/</guid>
       <description></description>
     </item>
     
