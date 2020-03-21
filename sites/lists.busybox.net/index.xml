@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lists.busybox.net on the bookmarks of wews</title>
+    <link>https://bookmarks.wews.co/sites/lists.busybox.net/</link>
+    <description>Recent content in lists.busybox.net on the bookmarks of wews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Mar 2020 06:54:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://bookmarks.wews.co/sites/lists.busybox.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding the bin, sbin, usr/bin , usr/sbin split</title>
+      <link>https://bookmarks.wews.co/items/understanding-bin-sbin-usrbin-usrsbin-split/</link>
+      <pubDate>Sat, 21 Mar 2020 06:54:05 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/understanding-bin-sbin-usrbin-usrsbin-split/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
