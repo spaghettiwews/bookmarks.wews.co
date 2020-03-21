@@ -3,27 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bookmarks.wews.co/items/</loc>
-    <lastmod>2020-03-21T06:54:05+02:00</lastmod>
+    <loc>https://bookmarks.wews.co/tags/git/</loc>
+    <lastmod>2020-03-21T15:31:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bookmarks.wews.co/sites/lists.busybox.net/</loc>
-    <lastmod>2020-03-21T06:54:05+02:00</lastmod>
+    <loc>https://bookmarks.wews.co/items/how-to-git-diff/</loc>
+    <lastmod>2020-03-21T15:31:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/</loc>
+    <lastmod>2020-03-21T15:31:48+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://bookmarks.wews.co/sites/</loc>
-    <lastmod>2020-03-21T06:54:05+02:00</lastmod>
+    <lastmod>2020-03-21T15:31:48+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://bookmarks.wews.co/tags/</loc>
-    <lastmod>2020-03-21T06:54:05+02:00</lastmod>
+    <lastmod>2020-03-21T15:31:48+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://bookmarks.wews.co/</loc>
+    <lastmod>2020-03-21T15:31:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/youtube.com/</loc>
+    <lastmod>2020-03-21T15:31:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/tags/ci/cd/</loc>
+    <lastmod>2020-03-21T10:13:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/jasonet.co/</loc>
+    <lastmod>2020-03-21T10:13:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/items/scheduled-actions/</loc>
+    <lastmod>2020-03-21T10:13:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookmarks.wews.co/sites/lists.busybox.net/</loc>
     <lastmod>2020-03-21T06:54:05+02:00</lastmod>
   </url>
   
@@ -243,11 +273,6 @@
   </url>
   
   <url>
-    <loc>https://bookmarks.wews.co/tags/ci/cd/</loc>
-    <lastmod>2020-02-29T15:27:47+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bookmarks.wews.co/sites/fire.ci/</loc>
     <lastmod>2020-02-29T15:27:47+02:00</lastmod>
   </url>
@@ -439,11 +464,6 @@
   
   <url>
     <loc>https://bookmarks.wews.co/tags/voyager/</loc>
-    <lastmod>2019-10-30T11:05:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/sites/youtube.com/</loc>
     <lastmod>2019-10-30T11:05:22+02:00</lastmod>
   </url>
   
@@ -1124,11 +1144,6 @@
   
   <url>
     <loc>https://bookmarks.wews.co/items/a-successful-git-branching-model/</loc>
-    <lastmod>2019-09-17T05:46:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bookmarks.wews.co/tags/git/</loc>
     <lastmod>2019-09-17T05:46:39+02:00</lastmod>
   </url>
   
