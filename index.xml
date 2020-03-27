@@ -6,10 +6,19 @@
     <description>Recent content on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2020 15:31:48 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 21:06:58 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>This is the bleak heart of the world’s deadliest coronavirus outbreak.</title>
+      <link>https://bookmarks.wews.co/items/coronavirus-italy-bergamo/</link>
+      <pubDate>Fri, 27 Mar 2020 21:06:58 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/items/coronavirus-italy-bergamo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How to use git diff</title>

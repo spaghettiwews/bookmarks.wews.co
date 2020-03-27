@@ -6,10 +6,19 @@
     <description>Recent content in Sites on the bookmarks of wews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2020 15:31:48 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 21:06:58 +0200</lastBuildDate>
     
 	<atom:link href="https://bookmarks.wews.co/sites/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>www.nytimes.com</title>
+      <link>https://bookmarks.wews.co/sites/www.nytimes.com/</link>
+      <pubDate>Fri, 27 Mar 2020 21:06:58 +0200</pubDate>
+      
+      <guid>https://bookmarks.wews.co/sites/www.nytimes.com/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>youtube.com</title>
